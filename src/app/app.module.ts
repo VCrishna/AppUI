@@ -8,6 +8,8 @@ import { AppHomeComponent } from './app-home/app-home.component';
 import { AlgorithmsComponent } from './algorithms/algorithms.component';
 import { CoursesComponent } from './courses/courses.component';
 import { RemindersComponent } from './reminders/reminders.component';
+import { LeetcodeComponent } from './leetcode/leetcode.component';
+import { SystemdesignComponent } from './systemdesign/systemdesign.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { RemindersComponent } from './reminders/reminders.component';
     AppHomeComponent,
     AlgorithmsComponent,
     CoursesComponent,
-    RemindersComponent
+    RemindersComponent,
+    LeetcodeComponent,
+    SystemdesignComponent
   ],
   imports: [
     BrowserModule,
