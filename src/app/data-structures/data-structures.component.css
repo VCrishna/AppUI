@@ -1,0 +1,21 @@
+.navbar .nav-link,
+.navbar-brand {
+  color: white !important;
+}
+.list-group-item {
+  background-color: rgb(34, 35, 48);
+  color: white;
+  border-color: rgb(60, 60, 75);
+}
+h2 {
+  color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 12px;
+}

@@ -10,6 +10,7 @@ import { CoursesComponent } from './courses/courses.component';
 import { RemindersComponent } from './reminders/reminders.component';
 import { LeetcodeComponent } from './leetcode/leetcode.component';
 import { SystemdesignComponent } from './systemdesign/systemdesign.component';
+import { SQLComponent } from './sql/sql.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { SystemdesignComponent } from './systemdesign/systemdesign.component';
     CoursesComponent,
     RemindersComponent,
     LeetcodeComponent,
-    SystemdesignComponent
+    SystemdesignComponent,
+    SQLComponent
   ],
   imports: [
     BrowserModule,
