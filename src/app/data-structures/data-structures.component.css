@@ -19,3 +19,8 @@ body {
 .container {
   padding: 12px;
 }
+/* Inside your data-structures.component.css or similar */
+.content-container,
+.content-container * {
+  font-size: 16px; /* or whatever size you prefer */
+}

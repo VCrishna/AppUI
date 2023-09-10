@@ -22,13 +22,10 @@ import { SQLComponent } from './sql/sql.component';
     RemindersComponent,
     LeetcodeComponent,
     SystemdesignComponent,
-    SQLComponent
+    SQLComponent,
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule
-  ],
+  imports: [BrowserModule, AppRoutingModule],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
