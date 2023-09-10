@@ -10,6 +10,7 @@ import { RemindersComponent } from './reminders/reminders.component';
 import { LeetcodeComponent } from './leetcode/leetcode.component';
 import { SystemdesignComponent } from './systemdesign/systemdesign.component';
 import { SQLComponent } from './sql/sql.component';
+import { AboutMeComponent } from './about-me/about-me.component';
 
 const routes: Routes = [
   { path: '', component: AppHomeComponent },
@@ -20,6 +21,7 @@ const routes: Routes = [
   { path: 'LeetCode', component: LeetcodeComponent },
   { path: 'SQL', component: SQLComponent },
   { path: 'Systemdesign', component: SystemdesignComponent },
+  { path: 'AboutMe', component: AboutMeComponent },
 ];
 
 @NgModule({

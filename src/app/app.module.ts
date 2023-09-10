@@ -11,6 +11,7 @@ import { RemindersComponent } from './reminders/reminders.component';
 import { LeetcodeComponent } from './leetcode/leetcode.component';
 import { SystemdesignComponent } from './systemdesign/systemdesign.component';
 import { SQLComponent } from './sql/sql.component';
+import { AboutMeComponent } from './about-me/about-me.component';
 
 @NgModule({
   declarations: [
@@ -23,6 +24,7 @@ import { SQLComponent } from './sql/sql.component';
     LeetcodeComponent,
     SystemdesignComponent,
     SQLComponent,
+    AboutMeComponent,
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
