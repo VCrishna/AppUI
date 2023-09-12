@@ -1,3 +1,4 @@
+import { LeetcodeComponent } from './leetcode/leetcode.component';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
@@ -8,10 +9,12 @@ import { AppHomeComponent } from './app-home/app-home.component';
 import { AlgorithmsComponent } from './algorithms/algorithms.component';
 import { CoursesComponent } from './courses/courses.component';
 import { RemindersComponent } from './reminders/reminders.component';
-import { LeetcodeComponent } from './leetcode/leetcode.component';
+import { LeetCodeQuestion } from './leetcode/LeetCodeQuestion';
 import { SystemdesignComponent } from './systemdesign/systemdesign.component';
 import { SQLComponent } from './sql/sql.component';
 import { AboutMeComponent } from './about-me/about-me.component';
+import { HttpClientModule } from '@angular/common/http';
+import { HighlightModule } from 'ngx-highlightjs';
 
 @NgModule({
   declarations: [
@@ -26,7 +29,7 @@ import { AboutMeComponent } from './about-me/about-me.component';
     SQLComponent,
     AboutMeComponent,
   ],
-  imports: [BrowserModule, AppRoutingModule],
+  imports: [BrowserModule, AppRoutingModule, HttpClientModule, HighlightModule],
   providers: [],
   bootstrap: [AppComponent],
 })

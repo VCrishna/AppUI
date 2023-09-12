@@ -55,7 +55,7 @@
         </li>
         <div *ngIf="isExpanded[i]" class="list-group-item bg-dark text-white">
           <!-- {{ item.content }} -->
-          <div [innerHTML]="item.content"></div>
+          <div class="dynamic-content" [innerHTML]="item.content"></div>
           <!-- Displaying the image -->
           <img
             [src]="item.image"
@@ -66,36 +66,7 @@
         </div>
       </ng-container>
     </ul>
-
-    <!-- <ul class="list-group mt-3">
-      <ng-container *ngFor="let item of items; let i = index">
-        <li class="list-group-item text-white">
-          <a
-            href="javascript:void(0)"
-            class="stretched-link text-decoration-none"
-            (click)="toggleItem(i)"
-          >
-            {{ item.name }}
-          </a>
-        </li>
-        <div *ngIf="isExpanded[i]" class="list-group-item bg-dark text-white">
-          {{ item.content }}
-        </div>
-      </ng-container>
-    </ul> -->
   </div>
-
-  <!-- <div class="container mt-0">
-    <h2 class="text-center">Data Structures</h2>
-    <ul class="list-group">
-      <li class="list-group-item" *ngFor="let item of items; let i = index">
-        <button (click)="toggleItem(i)">{{ item.name }}</button>
-        <div *ngIf="isExpanded[i]">
-          {{ item.content }}
-        </div>
-      </li>
-    </ul>
-  </div> -->
   <script
     src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
     integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
