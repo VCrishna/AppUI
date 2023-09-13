@@ -18,7 +18,7 @@ jobs:
           node-version: "14" # Use the version of Node.js you want here
 
       - name: Install Dependencies
-        run: npm ci
+        run: npm install
 
       - name: Build App
         run: ng build --configuration=production --base-href "/AppUI/"
