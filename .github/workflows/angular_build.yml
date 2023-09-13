@@ -1,14 +1,13 @@
-name: Build and Deploy Angular App to GitHub Pages
+name: Angular CI/CD
 
 on:
   push:
     branches:
-      - main # Change this to your default branch if not 'main'
+      - main # or the name of your default branch if it's not 'main'
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
@@ -16,20 +15,20 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: "14" # You can specify your desired Node.js version
+          node-version: "14" # Use the version of Node.js you want here
 
       - name: Install Dependencies
-        run: npm install
-      - name: Install Angular CLI
-        run: npm install -g @angular/cli
+        run: npm ci
+
       - name: Build App
-        run: ng build --configuration=production --base-href "/AppUI/" # Replace 'YourRepoName' with the name of your repo
+        run: ng build --configuration=production --base-href "/AppUI/"
         env:
           NEXTECH_TOKEN: ${{ secrets.NEXTECH_TOKEN }}
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
-          branch: gh-pages # The branch the action should deploy to
-          folder: dist/krishna-proj # The folder that your `ng build` command outputs to. Usually `dist/{your-app-name}`
-          token: ${{ secrets.NEXTECH_TOKEN }}
+          repository-name: "VCrishna/AppUI"
+          access-token: ${{ secrets.NEXTECH_TOKEN }}
+          branch: gh-pages
+          folder: dist/krishna-proj
