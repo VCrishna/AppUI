@@ -1,0 +1,34 @@
+name: Build and Deploy Angular App to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Change this to your default branch if not 'main'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14" # You can specify your desired Node.js version
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Build App
+        run: ng build --prod --base-href "/NexTech-Interviews/" # Replace 'YourRepoName' with the name of your repo
+        env:
+          NEXTECH_TOKEN: ${{ secrets.NEXTECH_TOKEN }}
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages # The branch the action should deploy to
+          folder: dist/YourAngularAppFolder # The folder that your `ng build` command outputs to. Usually `dist/{your-app-name}`
+          token: ${{ secrets.NEXTECH_TOKEN }}
