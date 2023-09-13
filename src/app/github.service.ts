@@ -7,7 +7,7 @@ import { environment } from '../environments/environment';
 export class GithubService {
   baseUrl = 'https://api.github.com/repos/VCrishna/LeetCode/contents/';
   private headers = new HttpHeaders({
-    Authorization: `Bearer ${environment.githubToken}`,
+    Authorization: `token ${environment.githubToken}`,
   });
 
   constructor(private http: HttpClient) {}

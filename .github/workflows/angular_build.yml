@@ -21,6 +21,8 @@ jobs:
         run: npm install
       - name: Install Angular CLI
         run: npm install -g @angular/cli
+      - name: Set Environment Variable in Angular
+        run: node setenv.js
       - name: Build App
         run: ng build --configuration=production --base-href "/AppUI/"
         env:
