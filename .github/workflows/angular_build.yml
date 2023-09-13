@@ -31,5 +31,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-pages # The branch the action should deploy to
-          folder: dist/YourAngularAppFolder # The folder that your `ng build` command outputs to. Usually `dist/{your-app-name}`
+          folder: dist/krishna-proj # The folder that your `ng build` command outputs to. Usually `dist/{your-app-name}`
           token: ${{ secrets.NEXTECH_TOKEN }}
