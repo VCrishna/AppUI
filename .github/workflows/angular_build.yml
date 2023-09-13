@@ -30,6 +30,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           repository-name: "VCrishna/AppUI"
-          access-token: ${{ secrets.NEXTECH_TOKEN }}
+          token: ${{ secrets.NEXTECH_TOKEN }}
           branch: gh-pages
           folder: dist/krishna-proj
