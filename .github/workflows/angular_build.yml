@@ -20,7 +20,8 @@ jobs:
 
       - name: Install Dependencies
         run: npm install
-
+      - name: Install Angular CLI
+        run: npm install -g @angular/cli
       - name: Build App
         run: ng build --configuration=production --base-href "/NexTech-Interviews/" # Replace 'YourRepoName' with the name of your repo
         env:
