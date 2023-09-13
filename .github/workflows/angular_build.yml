@@ -16,20 +16,31 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: "14" # Use the version of Node.js you want here
+
       - name: Install Angular CLI
         run: npm install -g @angular/cli
+
       - name: Install Dependencies
         run: npm install
 
       - name: Set Environment Variable in Angular
         run: node setenv.js
+
       - name: Build App
         run: ng build --configuration=production --base-href "/AppUI/"
         env:
           NEXTECH_TOKEN: ${{ secrets.NEXTECH_TOKEN }}
 
-      - name: Echo tkn
-        run: echo ${{ secrets.NEXTECH_TOKEN }}
+      - name: Check if token is present (safer method)
+        run: |
+          if [[ -z "${NEXTECH_TOKEN}" ]]; then
+            echo "NEXTECH_TOKEN is empty"
+            exit 1
+          else
+            echo "NEXTECH_TOKEN is set"
+          fi
+        env:
+          NEXTECH_TOKEN: ${{ secrets.NEXTECH_TOKEN }}
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
