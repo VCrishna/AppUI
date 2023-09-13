@@ -23,7 +23,7 @@ jobs:
       - name: Install Angular CLI
         run: npm install -g @angular/cli
       - name: Build App
-        run: ng build --configuration=production --base-href "/NexTech-Interviews/" # Replace 'YourRepoName' with the name of your repo
+        run: ng build --configuration=production --base-href "/AppUI/" # Replace 'YourRepoName' with the name of your repo
         env:
           NEXTECH_TOKEN: ${{ secrets.NEXTECH_TOKEN }}
 
