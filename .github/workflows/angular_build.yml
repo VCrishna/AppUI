@@ -27,6 +27,8 @@ jobs:
         run: ng build --configuration=production --base-href "/AppUI/"
         env:
           NEXTECH_TOKEN: ${{ secrets.NEXTECH_TOKEN }}
+      - name: Echo NEXTECH_TOKEN
+        run: echo $NEXTECH_TOKEN
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
