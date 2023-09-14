@@ -34,7 +34,4 @@ jobs:
           git config --local user.name "VCrishna"
           git add data.json
           git commit -m "Add fetched data" -a || echo "No changes to commit"
-          uses: actions/checkout@v2
-          with:
-              token: ${{ secrets.PERSONAL_TOKEN }}
-              persist-credentials: false
+          git push https://${PERSONAL_TOKEN}@github.com/VCrishna/AppUI.git
