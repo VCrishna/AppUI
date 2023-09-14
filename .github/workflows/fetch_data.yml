@@ -22,7 +22,7 @@ jobs:
           curl -H "Authorization: token $NEXTECH_TOKEN" https://api.github.com/repos/VCrishna/LeetCode/contents/ > ./src/assets/data.json
 
       - name: Log the fetched data
-        run: cat data.json
+        run: cat src/assets/data.json
 
       - name: Commit and push changes
         env:
