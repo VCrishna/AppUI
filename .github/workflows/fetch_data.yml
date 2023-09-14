@@ -18,7 +18,9 @@ jobs:
           NEXTECH_TOKEN: ${{ secrets.NEXTECH_TOKEN }}
         run: |
           curl -H "Authorization: token $NEXTECH_TOKEN" https://api.github.com/repos/VCrishna/LeetCode/contents/ > data.json
-
+      - name: Log the fetched data
+        run: |
+          cat data.json
       - name: Commit and push if there are changes
         env:
           GH_PAT: ${{ secrets.PERSONAL_TOKEN }}
