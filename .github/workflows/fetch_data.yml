@@ -22,7 +22,11 @@ jobs:
         run: |
           cat data.json
       - name: Commit and push if there are changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.PERSONAL_TOKEN }}
-          branch: ${{ github.ref }}
+        env:
+          GH_PAT: ${{ secrets.PERSONAL_TOKEN }}
+        run: |
+          git config --local user.email "vskrishna5558@gmail.com"
+          git config --local user.name "VCrishna"
+          git add data.json
+          git commit -m "Add fetched data" -a || echo "No changes to commit"
+          git push https://${GH_PAT}@github.com/VCrishna/AppUI.git main
