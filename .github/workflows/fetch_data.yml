@@ -30,4 +30,4 @@ jobs:
           git add data.json
           git commit -m "Add fetched data" -a || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/VCrishna/AppUI.git
-          git push
+          git push origin main
