@@ -22,14 +22,7 @@ jobs:
         run: |
           cat data.json
       - name: Commit and push if there are changes
-        env:
-          GH_PAT: ${{ secrets.PERSONAL_TOKEN }}
-        run: |
-          echo "Remote before changing: $(git remote -v)"
-          git config --local user.email "vskrishna5558@gmail.com"
-          git config --local user.name "VCrishna"
-          git add data.json
-          git commit -m "Add fetched data" -a || echo "No changes to commit"
-          git remote set-url origin "https://$GH_PAT@github.com/VCrishna/AppUI.git"
-          echo "Remote after changing: $(git remote -v)"
-          git push origin HEAD:temp-branch
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          branch: ${{ github.ref }}
