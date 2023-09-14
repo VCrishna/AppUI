@@ -1,0 +1,28 @@
+name: Fetch GitHub Data
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  fetch_data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch data from GitHub API
+        env:
+          NEXTECH_TOKEN: ${{ secrets.NEXTECH_TOKEN }}
+        run: |
+          curl -H "Authorization: token $NEXTECH_TOKEN" https://api.github.com/repos/VCrishna/LeetCode/contents/ > data.json
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --local user.email "vskrishna5558@gmail.com"
+          git config --local user.name "VCrishna"
+          git add data.json
+          git commit -m "Add fetched data" -a || echo "No changes to commit"
+          git push
