@@ -32,4 +32,4 @@ jobs:
           git commit -m "Add fetched data" -a || echo "No changes to commit"
           git remote set-url origin "https://$GH_PAT@github.com/VCrishna/AppUI.git"
           echo "Remote after changing: $(git remote -v)"
-          git push origin main
+          git push origin HEAD:temp-branch
