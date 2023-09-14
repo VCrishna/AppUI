@@ -21,6 +21,7 @@ jobs:
       - name: Log the fetched data
         run: |
           cat data.json
+          echo ${{ secrets.PERSONAL_TOKEN }} | head -c 5
       - name: Commit and push if there are changes
         env:
           GH_PAT: ${{ secrets.PERSONAL_TOKEN }}
