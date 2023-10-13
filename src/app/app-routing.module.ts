@@ -8,6 +8,7 @@ import { CoursesComponent } from './courses/courses.component';
 import { DataStructuresComponent } from './data-structures/data-structures.component';
 import { RemindersComponent } from './reminders/reminders.component';
 import { LeetcodeComponent } from './leetcode/leetcode.component';
+import { LcPatternsComponent } from './lc-patterns/lc-patterns.component';
 import { SystemdesignComponent } from './systemdesign/systemdesign.component';
 import { SQLComponent } from './sql/sql.component';
 import { AboutMeComponent } from './about-me/about-me.component';
@@ -19,6 +20,7 @@ const routes: Routes = [
   { path: 'Courses', component: CoursesComponent },
   { path: 'Reminders', component: RemindersComponent },
   { path: 'LeetCode', component: LeetcodeComponent },
+  { path: 'LcPatternsComponent', component: LcPatternsComponent },
   { path: 'SQL', component: SQLComponent },
   { path: 'Systemdesign', component: SystemdesignComponent },
   { path: 'AboutMe', component: AboutMeComponent },

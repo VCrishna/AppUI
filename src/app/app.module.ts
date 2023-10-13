@@ -15,6 +15,7 @@ import { SQLComponent } from './sql/sql.component';
 import { AboutMeComponent } from './about-me/about-me.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HighlightModule } from 'ngx-highlightjs';
+import { LcPatternsComponent } from './lc-patterns/lc-patterns.component';
 
 @NgModule({
   declarations: [
@@ -28,6 +29,7 @@ import { HighlightModule } from 'ngx-highlightjs';
     SystemdesignComponent,
     SQLComponent,
     AboutMeComponent,
+    LcPatternsComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule, HighlightModule],
   providers: [],
