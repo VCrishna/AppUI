@@ -16,6 +16,8 @@ import { AboutMeComponent } from './about-me/about-me.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HighlightModule } from 'ngx-highlightjs';
 import { LcPatternsComponent } from './lc-patterns/lc-patterns.component';
+import { CourseCardComponent } from './courses/course-card/course-card.component';
+import { NosqlComponent } from './nosql/nosql.component';
 
 @NgModule({
   declarations: [
@@ -30,6 +32,8 @@ import { LcPatternsComponent } from './lc-patterns/lc-patterns.component';
     SQLComponent,
     AboutMeComponent,
     LcPatternsComponent,
+    CourseCardComponent,
+    NosqlComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule, HighlightModule],
   providers: [],

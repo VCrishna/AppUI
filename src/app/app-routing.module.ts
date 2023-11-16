@@ -12,6 +12,7 @@ import { LcPatternsComponent } from './lc-patterns/lc-patterns.component';
 import { SystemdesignComponent } from './systemdesign/systemdesign.component';
 import { SQLComponent } from './sql/sql.component';
 import { AboutMeComponent } from './about-me/about-me.component';
+import { NosqlComponent } from './nosql/nosql.component';
 
 const routes: Routes = [
   { path: '', component: AppHomeComponent },
@@ -24,6 +25,7 @@ const routes: Routes = [
   { path: 'SQL', component: SQLComponent },
   { path: 'Systemdesign', component: SystemdesignComponent },
   { path: 'AboutMe', component: AboutMeComponent },
+  { path: 'NoSQL', component: NosqlComponent },
 ];
 
 @NgModule({

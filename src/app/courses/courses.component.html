@@ -4,7 +4,7 @@
   integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
   crossorigin="anonymous"
 />
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-0">
   <a
     class="navbar-brand bg-transparent text-dark border-0 font-weight-bold text-center"
     routerLink="/"
@@ -14,7 +14,7 @@
     <i class="bi bi-house-door" style="color: white"></i>
   </a>
   <ul class="navbar-nav">
-    <li class="nav-item me-auto mb-2 mb-lg-0">
+    <li class="nav-item me-auto mb-0 mb-lg-0">
       <a
         class="nav-link font-weight-bold"
         routerLink="Courses"
@@ -35,4 +35,10 @@
     <span aria-hidden="true">&times;</span>
   </button>
 </nav>
-<body></body>
+<body>
+  <div class="card-container">
+    <!-- Use CourseCard component for each course -->
+    <app-course-card></app-course-card>
+    <!-- Repeat for other courses -->
+  </div>
+</body>

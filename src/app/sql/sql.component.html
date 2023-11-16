@@ -35,4 +35,381 @@
     <span aria-hidden="true">&times;</span>
   </button>
 </nav>
-<body></body>
+<body style="background-color: rgb(34, 35, 48)">
+  <div class="container">
+    <p>
+      <code>SQL (Structured Query Language)</code> is a domain-specific language
+      used for managing and manipulating relational databases. It provides a
+      standardized way to interact with databases, allowing users to perform
+      various operations such as querying, updating, and managing data
+      efficiently.
+    </p>
+
+    <h5>Basic SQL Commands:</h5>
+    <ul>
+      <li><strong>SELECT:</strong> Retrieves data from one or more tables.</li>
+      <li><strong>INSERT:</strong> Adds new records to a table.</li>
+      <li><strong>UPDATE:</strong> Modifies existing records in a table.</li>
+      <li><strong>DELETE:</strong> Removes records from a table.</li>
+    </ul>
+
+    <h5>Database Structure:</h5>
+    <p>
+      A database consists of tables that store data in rows and columns. Each
+      column has a data type, and each row represents a record. Relationships
+      between tables are established through keys: primary keys uniquely
+      identify records, and foreign keys link tables together.
+    </p>
+
+    <h5>SQL Constraints:</h5>
+    <ul>
+      <li>
+        <strong>PRIMARY KEY:</strong> Uniquely identifies each record in a
+        table.
+      </li>
+      <li>
+        <strong>FOREIGN KEY:</strong> Establishes a link between two tables,
+        referencing a primary key in another table.
+      </li>
+      <li>
+        <strong>UNIQUE:</strong> Ensures that values in a column are unique
+        across the table.
+      </li>
+      <li>
+        <strong>NOT NULL:</strong> Restricts a column from containing NULL
+        values.
+      </li>
+      <li>
+        <strong>CHECK:</strong> Defines a condition that values must meet in a
+        column.
+      </li>
+    </ul>
+
+    <h5>SQL Queries:</h5>
+    <p>
+      Queries are SQL statements used to retrieve specific information from a
+      database. Common query types include:
+    </p>
+    <ul>
+      <li>
+        <strong>SELECT:</strong> Retrieves data from one or more tables based on
+        specified conditions.
+      </li>
+      <li>
+        <strong>WHERE:</strong> Filters data based on specified conditions.
+      </li>
+      <li>
+        <strong>ORDER BY:</strong> Sorts the result set in ascending or
+        descending order.
+      </li>
+      <li>
+        <strong>GROUP BY:</strong> Groups rows based on a column's values.
+      </li>
+      <li>
+        <strong>JOIN:</strong> Combines rows from two or more tables based on
+        related columns.
+      </li>
+    </ul>
+
+    <h5>SQL Functions:</h5>
+    <p>
+      SQL provides a variety of built-in functions to perform operations on
+      data:
+    </p>
+    <ul>
+      <li>
+        <strong>Aggregate Functions:</strong> AVG, SUM, COUNT, MAX, MIN, etc.
+      </li>
+      <li>
+        <strong>String Functions:</strong> CONCAT, SUBSTRING, LENGTH, UPPER,
+        LOWER, etc.
+      </li>
+      <li>
+        <strong>Date Functions:</strong> NOW, CURRENT_DATE, DATE_FORMAT, etc.
+      </li>
+      <li><strong>Math Functions:</strong> ROUND, CEIL, FLOOR, ABS, etc.</li>
+    </ul>
+
+    <h5>Advanced SQL:</h5>
+    <ul>
+      <li>
+        <strong>Indexes:</strong> Improve the speed of data retrieval operations
+        on a database table.
+      </li>
+      <li>
+        <strong>Transactions:</strong> Ensure the integrity and consistency of a
+        database by grouping operations into atomic units.
+      </li>
+      <li>
+        <strong>Views:</strong> Virtual tables based on the result of a SELECT
+        query.
+      </li>
+      <li>
+        <strong>Stored Procedures:</strong> Precompiled and stored in the
+        database for reuse.
+      </li>
+      <li>
+        <strong>Triggers:</strong> Automatically execute in response to specific
+        events on a particular table or view.
+      </li>
+    </ul>
+
+    <h5>Database Management Systems (DBMS):</h5>
+    <p>
+      Popular relational database management systems include MySQL, PostgreSQL,
+      SQLite, Microsoft SQL Server, and Oracle Database.
+    </p>
+
+    <h5>SQL Best Practices:</h5>
+    <ul>
+      <li>Use parameterized queries to prevent SQL injection attacks.</li>
+      <li>
+        Optimize queries for better performance using appropriate indexes.
+      </li>
+      <li>
+        Normalize database structure to minimize redundancy and improve data
+        integrity.
+      </li>
+      <li>Regularly back up the database to prevent data loss.</li>
+    </ul>
+
+    <h5>SQL in Application Development:</h5>
+    <p>
+      SQL is a fundamental skill for developers working on database-driven
+      applications. It is often integrated with server-side scripting languages
+      like PHP, Python, or Java to build dynamic and data-driven web
+      applications.
+    </p>
+
+    <h5>Conclusion:</h5>
+    <p>
+      SQL is a powerful and versatile language essential for anyone working with
+      relational databases. Its standardized syntax and widespread adoption make
+      it a valuable skill for database administrators, data analysts, and
+      software developers alike.
+    </p>
+
+    <h5>Order of Execution in SQL:</h5>
+    <ol>
+      <li>
+        <strong>FROM:</strong> Specifies the table or tables from which the data
+        is retrieved.
+      </li>
+      <li>
+        <strong>JOIN:</strong> Combines rows from two or more tables based on
+        related columns. This includes INNER JOIN, LEFT JOIN, RIGHT JOIN, and
+        FULL JOIN.
+      </li>
+      <li>
+        <strong>WHERE:</strong> Filters rows based on specified conditions.
+      </li>
+      <li>
+        <strong>GROUP BY:</strong> Groups rows based on a column's values. This
+        is often used with aggregate functions like COUNT, SUM, AVG, etc.
+      </li>
+      <li>
+        <strong>HAVING:</strong> Filters groups based on specified conditions.
+        It is similar to the WHERE clause but operates on grouped rows.
+      </li>
+      <li>
+        <strong>SELECT:</strong> Retrieves the specified columns from the result
+        set.
+      </li>
+      <li>
+        <strong>DISTINCT:</strong> Removes duplicate rows from the result set.
+      </li>
+      <li>
+        <strong>ORDER BY:</strong> Sorts the result set based on one or more
+        columns in ascending or descending order.
+      </li>
+      <li>
+        <strong>OFFSET and FETCH:</strong> Skips a specified number of rows and
+        returns the next set of rows from the result set. This is often used for
+        pagination.
+      </li>
+    </ol>
+
+    <p>
+      The <code>FROM</code> clause is the first to be executed, followed by
+      <code>JOIN</code>, <code>WHERE</code>, <code>GROUP BY</code>,
+      <code>HAVING</code>, <code>SELECT</code>, <code>DISTINCT</code>, and
+      finally <code>ORDER BY</code> and optional
+      <code>OFFSET and FETCH</code> clauses.
+    </p>
+
+    <h5>Example:</h5>
+    <p>Consider the following SQL query:</p>
+    <pre style="color: white">
+    <code>
+    SELECT column1, column2
+    FROM table1
+    JOIN table2 ON table1.column = table2.column
+    WHERE condition
+    GROUP BY column1
+    HAVING aggregate_condition
+    ORDER BY column1 DESC
+    OFFSET 10 ROWS FETCH NEXT 5 ROWS ONLY;
+    </code>
+</pre>
+
+    <p>In this example, the order of execution is as follows:</p>
+    <ol>
+      <li>
+        <strong>FROM: </strong> <code>table1</code> and <code>table2</code>
+      </li>
+      <li>
+        <strong>JOIN: </strong> <code>table1.column = table2.column</code>
+      </li>
+      <li><strong>WHERE: </strong> <code>condition</code></li>
+      <li><strong>GROUP BY: </strong> <code>column1</code></li>
+      <li><strong>HAVING: </strong> <code>aggregate_condition</code></li>
+      <li><strong>SELECT: </strong> <code>column1, column2</code></li>
+      <li><strong>ORDER BY: </strong> <code>column1 DESC</code></li>
+      <li>
+        <strong>OFFSET and FETCH: </strong>
+        <code>OFFSET 10 ROWS FETCH NEXT 5 ROWS ONLY</code>
+      </li>
+    </ol>
+
+    <p>
+      Understanding the order of execution helps in writing efficient queries
+      and troubleshooting unexpected results.
+    </p>
+    <p>
+      Advanced SQL concepts go beyond basic query operations and play a crucial
+      role in database management, optimization, and functionality.
+      Understanding these concepts is essential for building robust and
+      efficient database systems.
+    </p>
+
+    <h5>Indexes:</h5>
+    <p>
+      <code>Indexes</code> in SQL are data structures that provide a quick
+      lookup of rows based on the values of one or more columns. They enhance
+      the speed of data retrieval operations, especially for large tables.
+      Common types of indexes include B-tree indexes, unique indexes, and bitmap
+      indexes.
+    </p>
+
+    <h5>Transactions:</h5>
+    <p>
+      A <code>transaction</code> in SQL is a sequence of one or more SQL
+      statements that are executed as a single unit of work. Transactions ensure
+      the integrity and consistency of a database. The ACID properties
+      (Atomicity, Consistency, Isolation, Durability) define the characteristics
+      of a reliable transaction.
+    </p>
+
+    <h5>Views:</h5>
+    <p>
+      <code>Views</code> in SQL are virtual tables based on the result of a
+      SELECT query. They allow users to encapsulate complex queries and present
+      them as a simplified view. Views are useful for security, providing a
+      level of abstraction, and simplifying database interactions.
+    </p>
+
+    <h5>Stored Procedures:</h5>
+    <p>
+      A <code>Stored Procedure</code> in SQL is a precompiled collection of one
+      or more SQL statements. Stored procedures are stored in the database and
+      can be executed by calling the procedure's name. They enhance code
+      modularity, reusability, and security by allowing the execution of a set
+      of SQL statements as a single unit.
+    </p>
+
+    <h5>Triggers:</h5>
+    <p>
+      <code>Triggers</code> in SQL are sets of instructions that are
+      automatically executed (or "triggered") in response to specific events on
+      a particular table or view. Common events include INSERT, UPDATE, DELETE,
+      and even database startup or shutdown. Triggers are used for enforcing
+      business rules, data validation, and maintaining referential integrity.
+    </p>
+
+    <h5>Indexes Example:</h5>
+    <p>
+      Consider creating an index on a column named <code>employee_id</code>:
+    </p>
+    <pre>
+<code>
+CREATE INDEX idx_employee_id ON employees(employee_id);
+</code>
+</pre>
+
+    <h5>Transactions Example:</h5>
+    <p>
+      Example of a transaction that transfers funds between two bank accounts:
+    </p>
+    <pre>
+<code>
+BEGIN TRANSACTION;
+
+UPDATE accounts SET balance = balance - 100 WHERE account_id = 123;
+UPDATE accounts SET balance = balance + 100 WHERE account_id = 456;
+
+COMMIT;
+</code>
+</pre>
+
+    <h5>Views Example:</h5>
+    <p>
+      Creating a view that displays employee names and their department names:
+    </p>
+    <pre>
+<code>
+CREATE VIEW employee_department AS
+SELECT employees.employee_id, employees.employee_name, departments.department_name
+FROM employees
+JOIN departments ON employees.department_id = departments.department_id;
+</code>
+</pre>
+
+    <h5>Stored Procedures Example:</h5>
+    <p>
+      Creating a stored procedure that retrieves employee information based on
+      department:
+    </p>
+    <pre>
+<code>
+CREATE PROCEDURE GetEmployeesByDepartment(IN department_id INT)
+BEGIN
+    SELECT * FROM employees WHERE department_id = department_id;
+END;
+</code>
+</pre>
+
+    <h5>Triggers Example:</h5>
+    <p>
+      Creating a trigger that updates a timestamp when a row is inserted or
+      updated:
+    </p>
+    <pre>
+<code>
+CREATE TRIGGER update_timestamp
+BEFORE INSERT OR UPDATE ON employees
+FOR EACH ROW
+SET NEW.last_updated = NOW();
+</code>
+</pre>
+    <p>
+      These advanced SQL concepts provide a foundation for effective database
+      management, optimization, and maintaining data integrity in complex
+      systems.
+    </p>
+  </div>
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"
+  ></script>
+</body>

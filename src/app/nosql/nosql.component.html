@@ -1,0 +1,142 @@
+<!-- no-sql.component.html -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+  integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+  crossorigin="anonymous"
+/>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a
+    class="navbar-brand bg-transparent text-dark border-0 font-weight-bold text-center"
+    routerLink="/"
+    routerLinkActive="active"
+    href="#"
+  >
+    <i class="bi bi-house-door" style="color: white"></i>
+  </a>
+  <ul class="navbar-nav">
+    <li class="nav-item me-auto mb-2 mb-lg-0">
+      <a
+        class="nav-link font-weight-bold"
+        routerLink="noSql"
+        routerLinkActive="active"
+        href="#"
+        >Not Only SQL</a
+      >
+    </li>
+  </ul>
+  <button
+    type="button"
+    class="close btn-close-focus-shadow"
+    style="margin-left: auto"
+    routerLink="/"
+    routerLinkActive="active"
+    aria-label="Close"
+  >
+    <span aria-hidden="true">&times;</span>
+  </button>
+</nav>
+<body style="background-color: rgb(34, 35, 48)">
+  <div class="container">
+    <p>
+      <code>NoSQL (Not Only SQL)</code> is a category of database management
+      systems that do not strictly adhere to the traditional relational database
+      management system (RDBMS) model. Unlike SQL databases, NoSQL databases are
+      designed to handle a variety of data models, including document,
+      key-value, wide-column, and graph formats.
+    </p>
+
+    <h5>Types of NoSQL Databases:</h5>
+    <ul>
+      <li>
+        <strong>Document Stores:</strong> Store and retrieve data in the form of
+        documents, often using JSON or BSON formats. Examples include MongoDB
+        and CouchDB.
+      </li>
+      <li>
+        <strong>Key-Value Stores:</strong> Use a simple key-value pair to store
+        and retrieve data. Examples include Redis and DynamoDB.
+      </li>
+      <li>
+        <strong>Column-Family Stores:</strong> Organize data into columns rather
+        than rows, suitable for analyzing and retrieving specific columns.
+        Examples include Apache Cassandra and HBase.
+      </li>
+      <li>
+        <strong>Graph Databases:</strong> Represent data as nodes, edges, and
+        properties, making them efficient for querying relationships. Examples
+        include Neo4j and Amazon Neptune.
+      </li>
+    </ul>
+
+    <h5>Characteristics of NoSQL Databases:</h5>
+    <ul>
+      <li>
+        <strong>Schema-less:</strong> NoSQL databases are often schema-less,
+        allowing flexibility in the data structure.
+      </li>
+      <li>
+        <strong>Distributed:</strong> Many NoSQL databases are designed to be
+        distributed, enabling horizontal scaling across multiple servers.
+      </li>
+      <li>
+        <strong>High Performance:</strong> NoSQL databases are optimized for
+        specific use cases, offering high performance in certain scenarios.
+      </li>
+      <li>
+        <strong>Scalability:</strong> NoSQL databases can scale horizontally,
+        making them suitable for handling large-scale data and traffic.
+      </li>
+    </ul>
+
+    <h5>NoSQL vs. SQL:</h5>
+    <p>
+      NoSQL databases provide an alternative to traditional SQL databases,
+      offering advantages in terms of flexibility, scalability, and performance.
+      The choice between NoSQL and SQL depends on the specific requirements and
+      nature of the application.
+    </p>
+
+    <h5>Common NoSQL Database Use Cases:</h5>
+    <ul>
+      <li>
+        <strong>Content Management Systems:</strong> NoSQL databases are
+        well-suited for managing and serving content in dynamic websites.
+      </li>
+      <li>
+        <strong>Real-time Big Data Applications:</strong> NoSQL databases excel
+        in handling large volumes of real-time data, making them suitable for
+        big data applications.
+      </li>
+      <li>
+        <strong>IoT (Internet of Things):</strong> NoSQL databases are used to
+        store and retrieve data from IoT devices due to their ability to handle
+        diverse data formats.
+      </li>
+    </ul>
+
+    <h5>Conclusion:</h5>
+    <p>
+      NoSQL databases play a crucial role in modern application development by
+      providing flexible, scalable, and high-performance solutions for diverse
+      data management needs. Understanding the strengths and use cases of
+      different types of NoSQL databases is essential for making informed
+      decisions in database design.
+    </p>
+  </div>
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"
+  ></script>
+</body>
