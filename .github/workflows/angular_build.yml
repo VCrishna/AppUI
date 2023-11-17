@@ -27,7 +27,7 @@ jobs:
         run: npm cache clean --force
 
       - name: Install Dependencies
-        run: npm install
+        run: npm install --force
 
       - name: Build App
         run: ng build --configuration=production --base-href "/AppUI/"
