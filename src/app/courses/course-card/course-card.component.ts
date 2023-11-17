@@ -3,6 +3,7 @@ import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 import { NosqlComponent } from 'src/app/nosql/nosql.component';
 import { SQLComponent } from 'src/app/sql/sql.component';
+import { SystemdesignComponent } from 'src/app/systemdesign/systemdesign.component';
 
 @Component({
   selector: 'app-course-card',
@@ -24,6 +25,13 @@ export class CourseCardComponent {
       image: 'assets/NoSQL.jpeg',
       component: NosqlComponent,
       route: 'NoSQL',
+    },
+    {
+      id: 3,
+      title: 'System Design',
+      image: 'assets/sd.png',
+      component: SystemdesignComponent,
+      route: 'Systemdesign',
     },
   ];
 
