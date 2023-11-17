@@ -32,6 +32,22 @@
     }
   },
   {
+    "name": "1091-maximum-average-subtree",
+    "path": "1091-maximum-average-subtree",
+    "sha": "a93af89d41b5a47e13c82c4f24648947151cdce8",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1091-maximum-average-subtree?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1091-maximum-average-subtree",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/a93af89d41b5a47e13c82c4f24648947151cdce8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1091-maximum-average-subtree?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/a93af89d41b5a47e13c82c4f24648947151cdce8",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1091-maximum-average-subtree"
+    }
+  },
+  {
     "name": "1129-longest-string-chain",
     "path": "1129-longest-string-chain",
     "sha": "51ea019aa9a2e9ce46df137abeac3fa447555250",
@@ -96,6 +112,22 @@
     }
   },
   {
+    "name": "119-pascals-triangle-ii",
+    "path": "119-pascals-triangle-ii",
+    "sha": "f6c075e3bcfd95aa16f2da72c17d8935a071fec9",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/119-pascals-triangle-ii?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/119-pascals-triangle-ii",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/f6c075e3bcfd95aa16f2da72c17d8935a071fec9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/119-pascals-triangle-ii?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/f6c075e3bcfd95aa16f2da72c17d8935a071fec9",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/119-pascals-triangle-ii"
+    }
+  },
+  {
     "name": "121-best-time-to-buy-and-sell-stock",
     "path": "121-best-time-to-buy-and-sell-stock",
     "sha": "78bb89c407492bd15839731b51486811de5bcdef",
@@ -112,6 +144,38 @@
     }
   },
   {
+    "name": "1275-validate-binary-tree-nodes",
+    "path": "1275-validate-binary-tree-nodes",
+    "sha": "552716987ac4f5659e640a2aaf35811064b9f566",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1275-validate-binary-tree-nodes?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1275-validate-binary-tree-nodes",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/552716987ac4f5659e640a2aaf35811064b9f566",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1275-validate-binary-tree-nodes?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/552716987ac4f5659e640a2aaf35811064b9f566",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1275-validate-binary-tree-nodes"
+    }
+  },
+  {
+    "name": "1286-constrained-subsequence-sum",
+    "path": "1286-constrained-subsequence-sum",
+    "sha": "a6b49bbd588d42f878788721275b3c187d69b3e5",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1286-constrained-subsequence-sum?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1286-constrained-subsequence-sum",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/a6b49bbd588d42f878788721275b3c187d69b3e5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1286-constrained-subsequence-sum?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/a6b49bbd588d42f878788721275b3c187d69b3e5",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1286-constrained-subsequence-sum"
+    }
+  },
+  {
     "name": "1309-sort-items-by-groups-respecting-dependencies",
     "path": "1309-sort-items-by-groups-respecting-dependencies",
     "sha": "1439516c514fd006ae96acbf3ee80a10aee1b48a",
@@ -125,6 +189,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1309-sort-items-by-groups-respecting-dependencies?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1439516c514fd006ae96acbf3ee80a10aee1b48a",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/1309-sort-items-by-groups-respecting-dependencies"
+    }
+  },
+  {
+    "name": "1332-count-vowels-permutation",
+    "path": "1332-count-vowels-permutation",
+    "sha": "7e23e38a2112abaffeaae28b8e5a058137dc455a",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1332-count-vowels-permutation?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1332-count-vowels-permutation",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/7e23e38a2112abaffeaae28b8e5a058137dc455a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1332-count-vowels-permutation?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/7e23e38a2112abaffeaae28b8e5a058137dc455a",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1332-count-vowels-permutation"
     }
   },
   {
@@ -224,6 +304,22 @@
     }
   },
   {
+    "name": "1458-sort-integers-by-the-number-of-1-bits",
+    "path": "1458-sort-integers-by-the-number-of-1-bits",
+    "sha": "1c00eea11f2f23d41f08063fb573d29ff713a834",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1458-sort-integers-by-the-number-of-1-bits?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1458-sort-integers-by-the-number-of-1-bits",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1c00eea11f2f23d41f08063fb573d29ff713a834",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1458-sort-integers-by-the-number-of-1-bits?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1c00eea11f2f23d41f08063fb573d29ff713a834",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1458-sort-integers-by-the-number-of-1-bits"
+    }
+  },
+  {
     "name": "146-lru-cache",
     "path": "146-lru-cache",
     "sha": "8e4dab7e69e7910c8e300f58dd33192b3f848b8d",
@@ -320,6 +416,22 @@
     }
   },
   {
+    "name": "1552-build-an-array-with-stack-operations",
+    "path": "1552-build-an-array-with-stack-operations",
+    "sha": "c1e930b856034070bf2cd9d5bd477414249d815f",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1552-build-an-array-with-stack-operations?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1552-build-an-array-with-stack-operations",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/c1e930b856034070bf2cd9d5bd477414249d815f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1552-build-an-array-with-stack-operations?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/c1e930b856034070bf2cd9d5bd477414249d815f",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1552-build-an-array-with-stack-operations"
+    }
+  },
+  {
     "name": "1569-max-dot-product-of-two-subsequences",
     "path": "1569-max-dot-product-of-two-subsequences",
     "sha": "b34bba7a046dc40b96533611273813032e4e5d2e",
@@ -333,6 +445,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1569-max-dot-product-of-two-subsequences?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/b34bba7a046dc40b96533611273813032e4e5d2e",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/1569-max-dot-product-of-two-subsequences"
+    }
+  },
+  {
+    "name": "1570-final-prices-with-a-special-discount-in-a-shop",
+    "path": "1570-final-prices-with-a-special-discount-in-a-shop",
+    "sha": "daec7b41a6f1839cded7c783790d4139844f55f3",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1570-final-prices-with-a-special-discount-in-a-shop?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1570-final-prices-with-a-special-discount-in-a-shop",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/daec7b41a6f1839cded7c783790d4139844f55f3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1570-final-prices-with-a-special-discount-in-a-shop?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/daec7b41a6f1839cded7c783790d4139844f55f3",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1570-final-prices-with-a-special-discount-in-a-shop"
     }
   },
   {
@@ -352,6 +480,22 @@
     }
   },
   {
+    "name": "1627-last-moment-before-all-ants-fall-out-of-a-plank",
+    "path": "1627-last-moment-before-all-ants-fall-out-of-a-plank",
+    "sha": "a3eb8e1f8ee68c0497f2bff5daafce715c57b9ef",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1627-last-moment-before-all-ants-fall-out-of-a-plank?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1627-last-moment-before-all-ants-fall-out-of-a-plank",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/a3eb8e1f8ee68c0497f2bff5daafce715c57b9ef",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1627-last-moment-before-all-ants-fall-out-of-a-plank?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/a3eb8e1f8ee68c0497f2bff5daafce715c57b9ef",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1627-last-moment-before-all-ants-fall-out-of-a-plank"
+    }
+  },
+  {
     "name": "1635-number-of-good-pairs",
     "path": "1635-number-of-good-pairs",
     "sha": "cf0c6f824e6ed66da0d74e64830df90ef33b1c37",
@@ -365,6 +509,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1635-number-of-good-pairs?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/cf0c6f824e6ed66da0d74e64830df90ef33b1c37",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/1635-number-of-good-pairs"
+    }
+  },
+  {
+    "name": "1657-find-the-winner-of-an-array-game",
+    "path": "1657-find-the-winner-of-an-array-game",
+    "sha": "063f9148e59fa3abfa4eb03d4f02c3f08f8338d4",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1657-find-the-winner-of-an-array-game?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1657-find-the-winner-of-an-array-game",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/063f9148e59fa3abfa4eb03d4f02c3f08f8338d4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1657-find-the-winner-of-an-array-game?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/063f9148e59fa3abfa4eb03d4f02c3f08f8338d4",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1657-find-the-winner-of-an-array-game"
     }
   },
   {
@@ -480,6 +640,54 @@
     }
   },
   {
+    "name": "1839-decode-xored-array",
+    "path": "1839-decode-xored-array",
+    "sha": "2023dee43968f6bcd8d88fb8f5537c191d1c0139",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1839-decode-xored-array?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1839-decode-xored-array",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/2023dee43968f6bcd8d88fb8f5537c191d1c0139",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1839-decode-xored-array?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/2023dee43968f6bcd8d88fb8f5537c191d1c0139",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1839-decode-xored-array"
+    }
+  },
+  {
+    "name": "1866-restore-the-array-from-adjacent-pairs",
+    "path": "1866-restore-the-array-from-adjacent-pairs",
+    "sha": "a6a567ea9504173a488372916b439f34375b950e",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1866-restore-the-array-from-adjacent-pairs?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1866-restore-the-array-from-adjacent-pairs",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/a6a567ea9504173a488372916b439f34375b950e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1866-restore-the-array-from-adjacent-pairs?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/a6a567ea9504173a488372916b439f34375b950e",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1866-restore-the-array-from-adjacent-pairs"
+    }
+  },
+  {
+    "name": "1885-count-number-of-homogenous-substrings",
+    "path": "1885-count-number-of-homogenous-substrings",
+    "sha": "190ee3349fa56b03b0c5ec12101c4eaab0aaef02",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1885-count-number-of-homogenous-substrings?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1885-count-number-of-homogenous-substrings",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/190ee3349fa56b03b0c5ec12101c4eaab0aaef02",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1885-count-number-of-homogenous-substrings?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/190ee3349fa56b03b0c5ec12101c4eaab0aaef02",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1885-count-number-of-homogenous-substrings"
+    }
+  },
+  {
     "name": "191-number-of-1-bits",
     "path": "191-number-of-1-bits",
     "sha": "10e467c86d70a96279c46a769311525d15c5a812",
@@ -493,6 +701,54 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/191-number-of-1-bits?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/10e467c86d70a96279c46a769311525d15c5a812",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/191-number-of-1-bits"
+    }
+  },
+  {
+    "name": "1918-maximum-score-of-a-good-subarray",
+    "path": "1918-maximum-score-of-a-good-subarray",
+    "sha": "16d1b8c47d71c48b2cad2dfb44d80fd7e2d95248",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1918-maximum-score-of-a-good-subarray?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1918-maximum-score-of-a-good-subarray",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/16d1b8c47d71c48b2cad2dfb44d80fd7e2d95248",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1918-maximum-score-of-a-good-subarray?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/16d1b8c47d71c48b2cad2dfb44d80fd7e2d95248",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1918-maximum-score-of-a-good-subarray"
+    }
+  },
+  {
+    "name": "1955-seat-reservation-manager",
+    "path": "1955-seat-reservation-manager",
+    "sha": "3b6f531f918db4c9f4b01a0eaf66e64fdbb2d3ba",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1955-seat-reservation-manager?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1955-seat-reservation-manager",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3b6f531f918db4c9f4b01a0eaf66e64fdbb2d3ba",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1955-seat-reservation-manager?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3b6f531f918db4c9f4b01a0eaf66e64fdbb2d3ba",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1955-seat-reservation-manager"
+    }
+  },
+  {
+    "name": "1956-maximum-element-after-decreasing-and-rearranging",
+    "path": "1956-maximum-element-after-decreasing-and-rearranging",
+    "sha": "adbda4895c86d4c2612328cb5c9d87fc625d3e19",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1956-maximum-element-after-decreasing-and-rearranging?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1956-maximum-element-after-decreasing-and-rearranging",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/adbda4895c86d4c2612328cb5c9d87fc625d3e19",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1956-maximum-element-after-decreasing-and-rearranging?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/adbda4895c86d4c2612328cb5c9d87fc625d3e19",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1956-maximum-element-after-decreasing-and-rearranging"
     }
   },
   {
@@ -528,6 +784,38 @@
     }
   },
   {
+    "name": "2049-eliminate-maximum-number-of-monsters",
+    "path": "2049-eliminate-maximum-number-of-monsters",
+    "sha": "66bf72762ae5f2ca1c0cdf13dd81d2f9149ea27d",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2049-eliminate-maximum-number-of-monsters?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2049-eliminate-maximum-number-of-monsters",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/66bf72762ae5f2ca1c0cdf13dd81d2f9149ea27d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2049-eliminate-maximum-number-of-monsters?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/66bf72762ae5f2ca1c0cdf13dd81d2f9149ea27d",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2049-eliminate-maximum-number-of-monsters"
+    }
+  },
+  {
+    "name": "2059-unique-length-3-palindromic-subsequences",
+    "path": "2059-unique-length-3-palindromic-subsequences",
+    "sha": "3bcbdf9c237d8b7e92079ffaed06655519e7f893",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2059-unique-length-3-palindromic-subsequences?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2059-unique-length-3-palindromic-subsequences",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3bcbdf9c237d8b7e92079ffaed06655519e7f893",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2059-unique-length-3-palindromic-subsequences?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3bcbdf9c237d8b7e92079ffaed06655519e7f893",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2059-unique-length-3-palindromic-subsequences"
+    }
+  },
+  {
     "name": "21-merge-two-sorted-lists",
     "path": "21-merge-two-sorted-lists",
     "sha": "2a553feae6ae4eab1e43d6d60cece19dabdd0b48",
@@ -541,6 +829,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/21-merge-two-sorted-lists?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/2a553feae6ae4eab1e43d6d60cece19dabdd0b48",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/21-merge-two-sorted-lists"
+    }
+  },
+  {
+    "name": "2107-find-unique-binary-string",
+    "path": "2107-find-unique-binary-string",
+    "sha": "66a4c784a0202fc4b50d76db132a1a1c8f51f6f1",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2107-find-unique-binary-string?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2107-find-unique-binary-string",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/66a4c784a0202fc4b50d76db132a1a1c8f51f6f1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2107-find-unique-binary-string?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/66a4c784a0202fc4b50d76db132a1a1c8f51f6f1",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2107-find-unique-binary-string"
     }
   },
   {
@@ -608,6 +912,38 @@
     }
   },
   {
+    "name": "217-contains-duplicate",
+    "path": "217-contains-duplicate",
+    "sha": "810776900ca6fc577a246522882a335b13a487cb",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/217-contains-duplicate?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/217-contains-duplicate",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/810776900ca6fc577a246522882a335b13a487cb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/217-contains-duplicate?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/810776900ca6fc577a246522882a335b13a487cb",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/217-contains-duplicate"
+    }
+  },
+  {
+    "name": "2176-parallel-courses-iii",
+    "path": "2176-parallel-courses-iii",
+    "sha": "c695e322e1af8770f0f0df0c621da833c751e300",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2176-parallel-courses-iii?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2176-parallel-courses-iii",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/c695e322e1af8770f0f0df0c621da833c751e300",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2176-parallel-courses-iii?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/c695e322e1af8770f0f0df0c621da833c751e300",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2176-parallel-courses-iii"
+    }
+  },
+  {
     "name": "225-implement-stack-using-queues",
     "path": "225-implement-stack-using-queues",
     "sha": "c317c9b7718b47ea825ca4c7b334c26f78b215d4",
@@ -672,6 +1008,22 @@
     }
   },
   {
+    "name": "2347-count-nodes-equal-to-average-of-subtree",
+    "path": "2347-count-nodes-equal-to-average-of-subtree",
+    "sha": "9d5dc22de620159d9969bcb017c4772594b5c5f8",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2347-count-nodes-equal-to-average-of-subtree?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2347-count-nodes-equal-to-average-of-subtree",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/9d5dc22de620159d9969bcb017c4772594b5c5f8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2347-count-nodes-equal-to-average-of-subtree?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/9d5dc22de620159d9969bcb017c4772594b5c5f8",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2347-count-nodes-equal-to-average-of-subtree"
+    }
+  },
+  {
     "name": "238-product-of-array-except-self",
     "path": "238-product-of-array-except-self",
     "sha": "6024a9d61372c302bc39846d7b0b1aa84c067873",
@@ -701,6 +1053,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/239-sliding-window-maximum?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/fafd8de5f3262c65fd8f1b621f773084bb726d12",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/239-sliding-window-maximum"
+    }
+  },
+  {
+    "name": "242-valid-anagram",
+    "path": "242-valid-anagram",
+    "sha": "1761adb352dc6c0adb0b5cd686966e845d0132b7",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/242-valid-anagram?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/242-valid-anagram",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1761adb352dc6c0adb0b5cd686966e845d0132b7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/242-valid-anagram?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1761adb352dc6c0adb0b5cd686966e845d0132b7",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/242-valid-anagram"
     }
   },
   {
@@ -736,6 +1104,22 @@
     }
   },
   {
+    "name": "2519-find-the-original-array-of-prefix-xor",
+    "path": "2519-find-the-original-array-of-prefix-xor",
+    "sha": "ddc44464ed08da3b617e764c4c70a08f711bc7fb",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2519-find-the-original-array-of-prefix-xor?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2519-find-the-original-array-of-prefix-xor",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/ddc44464ed08da3b617e764c4c70a08f711bc7fb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2519-find-the-original-array-of-prefix-xor?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/ddc44464ed08da3b617e764c4c70a08f711bc7fb",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2519-find-the-original-array-of-prefix-xor"
+    }
+  },
+  {
     "name": "2576-minimum-penalty-for-a-shop",
     "path": "2576-minimum-penalty-for-a-shop",
     "sha": "515fec016e43c014daea951c67c11cc56402a2d5",
@@ -765,6 +1149,38 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2634-minimum-common-value?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/4e7cf2d5f10e1df28aeec7735e7dc55c18de6034",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/2634-minimum-common-value"
+    }
+  },
+  {
+    "name": "2678-design-graph-with-shortest-path-calculator",
+    "path": "2678-design-graph-with-shortest-path-calculator",
+    "sha": "fef2f9299c9ddd9db0e6a0b8be8784dd15efa51a",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2678-design-graph-with-shortest-path-calculator?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2678-design-graph-with-shortest-path-calculator",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/fef2f9299c9ddd9db0e6a0b8be8784dd15efa51a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2678-design-graph-with-shortest-path-calculator?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/fef2f9299c9ddd9db0e6a0b8be8784dd15efa51a",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2678-design-graph-with-shortest-path-calculator"
+    }
+  },
+  {
+    "name": "268-missing-number",
+    "path": "268-missing-number",
+    "sha": "b80fe6f89b70287d23132ccbc052fbcd2ba77976",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/268-missing-number?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/268-missing-number",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/b80fe6f89b70287d23132ccbc052fbcd2ba77976",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/268-missing-number?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/b80fe6f89b70287d23132ccbc052fbcd2ba77976",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/268-missing-number"
     }
   },
   {
@@ -800,6 +1216,22 @@
     }
   },
   {
+    "name": "2808-painting-the-walls",
+    "path": "2808-painting-the-walls",
+    "sha": "292a4d4d236f4b4fe9a54f9cb0d7e7386fde70ff",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2808-painting-the-walls?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2808-painting-the-walls",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/292a4d4d236f4b4fe9a54f9cb0d7e7386fde70ff",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2808-painting-the-walls?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/292a4d4d236f4b4fe9a54f9cb0d7e7386fde70ff",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2808-painting-the-walls"
+    }
+  },
+  {
     "name": "283-move-zeroes",
     "path": "283-move-zeroes",
     "sha": "215458b9360711574c1bc27d63309f0a14cdc69f",
@@ -832,6 +1264,22 @@
     }
   },
   {
+    "name": "2887-sort-vowels-in-a-string",
+    "path": "2887-sort-vowels-in-a-string",
+    "sha": "8a0ab6952b878ac9e2abb8de61bf8d99e6bf651b",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2887-sort-vowels-in-a-string?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2887-sort-vowels-in-a-string",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/8a0ab6952b878ac9e2abb8de61bf8d99e6bf651b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2887-sort-vowels-in-a-string?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/8a0ab6952b878ac9e2abb8de61bf8d99e6bf651b",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2887-sort-vowels-in-a-string"
+    }
+  },
+  {
     "name": "303-range-sum-query-immutable",
     "path": "303-range-sum-query-immutable",
     "sha": "d7e5c4db7356a3a78a0b06da24660366e5bc8c3e",
@@ -845,6 +1293,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/303-range-sum-query-immutable?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/d7e5c4db7356a3a78a0b06da24660366e5bc8c3e",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/303-range-sum-query-immutable"
+    }
+  },
+  {
+    "name": "3056-determine-if-a-cell-is-reachable-at-a-given-time",
+    "path": "3056-determine-if-a-cell-is-reachable-at-a-given-time",
+    "sha": "8f5d4835f5c4ec3020734fb6c733a07843247899",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/3056-determine-if-a-cell-is-reachable-at-a-given-time?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/3056-determine-if-a-cell-is-reachable-at-a-given-time",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/8f5d4835f5c4ec3020734fb6c733a07843247899",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/3056-determine-if-a-cell-is-reachable-at-a-given-time?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/8f5d4835f5c4ec3020734fb6c733a07843247899",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/3056-determine-if-a-cell-is-reachable-at-a-given-time"
     }
   },
   {
@@ -960,6 +1424,38 @@
     }
   },
   {
+    "name": "341-flatten-nested-list-iterator",
+    "path": "341-flatten-nested-list-iterator",
+    "sha": "edaf218bf9b350a01761b0de5bbd8589f46d2a45",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/341-flatten-nested-list-iterator?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/341-flatten-nested-list-iterator",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/edaf218bf9b350a01761b0de5bbd8589f46d2a45",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/341-flatten-nested-list-iterator?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/edaf218bf9b350a01761b0de5bbd8589f46d2a45",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/341-flatten-nested-list-iterator"
+    }
+  },
+  {
+    "name": "342-power-of-four",
+    "path": "342-power-of-four",
+    "sha": "2e745625a9151f8c55797316e18ddda93798df9f",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/342-power-of-four?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/342-power-of-four",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/2e745625a9151f8c55797316e18ddda93798df9f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/342-power-of-four?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/2e745625a9151f8c55797316e18ddda93798df9f",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/342-power-of-four"
+    }
+  },
+  {
     "name": "343-integer-break",
     "path": "343-integer-break",
     "sha": "081bc1764991b1ea414c2fec93766b207e0ecd1c",
@@ -989,6 +1485,38 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/347-top-k-frequent-elements?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/0bf2532e2d837f9b102497cdfbdf4adf2545c156",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/347-top-k-frequent-elements"
+    }
+  },
+  {
+    "name": "359-logger-rate-limiter",
+    "path": "359-logger-rate-limiter",
+    "sha": "5e08d619113c1ab1b8280cef1a9b15a4d8c0a676",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/359-logger-rate-limiter?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/359-logger-rate-limiter",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/5e08d619113c1ab1b8280cef1a9b15a4d8c0a676",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/359-logger-rate-limiter?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/5e08d619113c1ab1b8280cef1a9b15a4d8c0a676",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/359-logger-rate-limiter"
+    }
+  },
+  {
+    "name": "362-design-hit-counter",
+    "path": "362-design-hit-counter",
+    "sha": "f3b4217e6be5ebe86c2ff289137935a2c016cfb4",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/362-design-hit-counter?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/362-design-hit-counter",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/f3b4217e6be5ebe86c2ff289137935a2c016cfb4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/362-design-hit-counter?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/f3b4217e6be5ebe86c2ff289137935a2c016cfb4",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/362-design-hit-counter"
     }
   },
   {
@@ -1216,6 +1744,22 @@
     }
   },
   {
+    "name": "458-poor-pigs",
+    "path": "458-poor-pigs",
+    "sha": "1c6fe9028180ca1d3234980e5707aebf5a82ebe8",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/458-poor-pigs?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/458-poor-pigs",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1c6fe9028180ca1d3234980e5707aebf5a82ebe8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/458-poor-pigs?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1c6fe9028180ca1d3234980e5707aebf5a82ebe8",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/458-poor-pigs"
+    }
+  },
+  {
     "name": "459-repeated-substring-pattern",
     "path": "459-repeated-substring-pattern",
     "sha": "cdc5f19cff75ce146d467bfa0b116032759faf6c",
@@ -1314,16 +1858,16 @@
   {
     "name": "5-longest-palindromic-substring",
     "path": "5-longest-palindromic-substring",
-    "sha": "11656141d01eed1dc3dda46f21bd3342a10dfa55",
+    "sha": "9a5a9363d84eb0440620420edd7a40ba9a2f98d0",
     "size": 0,
     "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/5-longest-palindromic-substring?ref=main",
     "html_url": "https://github.com/VCrishna/LeetCode/tree/main/5-longest-palindromic-substring",
-    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/11656141d01eed1dc3dda46f21bd3342a10dfa55",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/9a5a9363d84eb0440620420edd7a40ba9a2f98d0",
     "download_url": null,
     "type": "dir",
     "_links": {
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/5-longest-palindromic-substring?ref=main",
-      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/11656141d01eed1dc3dda46f21bd3342a10dfa55",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/9a5a9363d84eb0440620420edd7a40ba9a2f98d0",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/5-longest-palindromic-substring"
     }
   },
@@ -1341,6 +1885,38 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/50-powx-n?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/b8be3c123377c3ba1221fd3d2118b7a89e116797",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/50-powx-n"
+    }
+  },
+  {
+    "name": "501-find-mode-in-binary-search-tree",
+    "path": "501-find-mode-in-binary-search-tree",
+    "sha": "9bf4fb8d8d3d8d8acf1ffa3702e8f72b2df3ee42",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/501-find-mode-in-binary-search-tree?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/501-find-mode-in-binary-search-tree",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/9bf4fb8d8d3d8d8acf1ffa3702e8f72b2df3ee42",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/501-find-mode-in-binary-search-tree?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/9bf4fb8d8d3d8d8acf1ffa3702e8f72b2df3ee42",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/501-find-mode-in-binary-search-tree"
+    }
+  },
+  {
+    "name": "515-find-largest-value-in-each-tree-row",
+    "path": "515-find-largest-value-in-each-tree-row",
+    "sha": "9707d43649ae839fa51df2956456952b1f0fbe38",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/515-find-largest-value-in-each-tree-row?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/515-find-largest-value-in-each-tree-row",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/9707d43649ae839fa51df2956456952b1f0fbe38",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/515-find-largest-value-in-each-tree-row?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/9707d43649ae839fa51df2956456952b1f0fbe38",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/515-find-largest-value-in-each-tree-row"
     }
   },
   {
@@ -1392,6 +1968,22 @@
     }
   },
   {
+    "name": "565-array-nesting",
+    "path": "565-array-nesting",
+    "sha": "e5eec79b8e1df56267ee3133b1b73fd38bfc776c",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/565-array-nesting?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/565-array-nesting",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/e5eec79b8e1df56267ee3133b1b73fd38bfc776c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/565-array-nesting?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/e5eec79b8e1df56267ee3133b1b73fd38bfc776c",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/565-array-nesting"
+    }
+  },
+  {
     "name": "6-zigzag-conversion",
     "path": "6-zigzag-conversion",
     "sha": "a1b7d734051559b365851493b20b6fa47f9b6b5c",
@@ -1408,18 +2000,34 @@
     }
   },
   {
+    "name": "617-merge-two-binary-trees",
+    "path": "617-merge-two-binary-trees",
+    "sha": "3d3cfef961ac04b785438cde8b1c46758faf4633",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/617-merge-two-binary-trees?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/617-merge-two-binary-trees",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3d3cfef961ac04b785438cde8b1c46758faf4633",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/617-merge-two-binary-trees?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3d3cfef961ac04b785438cde8b1c46758faf4633",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/617-merge-two-binary-trees"
+    }
+  },
+  {
     "name": "62-unique-paths",
     "path": "62-unique-paths",
-    "sha": "002c2c27afbcbeaef98a82c63997c0dfad648baa",
+    "sha": "4a54062b809e19e541d6f8390f2c6d61d562a8b0",
     "size": 0,
     "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/62-unique-paths?ref=main",
     "html_url": "https://github.com/VCrishna/LeetCode/tree/main/62-unique-paths",
-    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/002c2c27afbcbeaef98a82c63997c0dfad648baa",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/4a54062b809e19e541d6f8390f2c6d61d562a8b0",
     "download_url": null,
     "type": "dir",
     "_links": {
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/62-unique-paths?ref=main",
-      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/002c2c27afbcbeaef98a82c63997c0dfad648baa",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/4a54062b809e19e541d6f8390f2c6d61d562a8b0",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/62-unique-paths"
     }
   },
@@ -1616,6 +2224,22 @@
     }
   },
   {
+    "name": "747-min-cost-climbing-stairs",
+    "path": "747-min-cost-climbing-stairs",
+    "sha": "fcfd07aef32c572dc9ae2e490d10046a9f722ca3",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/747-min-cost-climbing-stairs?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/747-min-cost-climbing-stairs",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/fcfd07aef32c572dc9ae2e490d10046a9f722ca3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/747-min-cost-climbing-stairs?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/fcfd07aef32c572dc9ae2e490d10046a9f722ca3",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/747-min-cost-climbing-stairs"
+    }
+  },
+  {
     "name": "75-sort-colors",
     "path": "75-sort-colors",
     "sha": "ef3cf8d5bdb6f08c2b064a2f44d74f187e127fe1",
@@ -1629,6 +2253,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/75-sort-colors?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/ef3cf8d5bdb6f08c2b064a2f44d74f187e127fe1",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/75-sort-colors"
+    }
+  },
+  {
+    "name": "768-partition-labels",
+    "path": "768-partition-labels",
+    "sha": "1672361e2d851ec2f391445e060983e22f11d881",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/768-partition-labels?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/768-partition-labels",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1672361e2d851ec2f391445e060983e22f11d881",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/768-partition-labels?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1672361e2d851ec2f391445e060983e22f11d881",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/768-partition-labels"
     }
   },
   {
@@ -1677,6 +2317,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/792-binary-search?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/83478333d8a0070c8d3bc9fd71ce562952d42ffd",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/792-binary-search"
+    }
+  },
+  {
+    "name": "795-k-th-symbol-in-grammar",
+    "path": "795-k-th-symbol-in-grammar",
+    "sha": "5dc65398f63f4033794ea449932ad492f37c16c6",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/795-k-th-symbol-in-grammar?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/795-k-th-symbol-in-grammar",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/5dc65398f63f4033794ea449932ad492f37c16c6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/795-k-th-symbol-in-grammar?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/5dc65398f63f4033794ea449932ad492f37c16c6",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/795-k-th-symbol-in-grammar"
     }
   },
   {
@@ -1760,6 +2416,54 @@
     }
   },
   {
+    "name": "833-bus-routes",
+    "path": "833-bus-routes",
+    "sha": "0365fd6859afb905f0fa26c26d8fba3af69a9626",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/833-bus-routes?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/833-bus-routes",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/0365fd6859afb905f0fa26c26d8fba3af69a9626",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/833-bus-routes?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/0365fd6859afb905f0fa26c26d8fba3af69a9626",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/833-bus-routes"
+    }
+  },
+  {
+    "name": "84-largest-rectangle-in-histogram",
+    "path": "84-largest-rectangle-in-histogram",
+    "sha": "97c2767d8878c130bbe13f24a14ba0093a7e50cd",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/84-largest-rectangle-in-histogram?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/84-largest-rectangle-in-histogram",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/97c2767d8878c130bbe13f24a14ba0093a7e50cd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/84-largest-rectangle-in-histogram?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/97c2767d8878c130bbe13f24a14ba0093a7e50cd",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/84-largest-rectangle-in-histogram"
+    }
+  },
+  {
+    "name": "843-binary-trees-with-factors",
+    "path": "843-binary-trees-with-factors",
+    "sha": "9000a5b0506ae45c2af27a795e70f28a28af7a5c",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/843-binary-trees-with-factors?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/843-binary-trees-with-factors",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/9000a5b0506ae45c2af27a795e70f28a28af7a5c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/843-binary-trees-with-factors?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/9000a5b0506ae45c2af27a795e70f28a28af7a5c",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/843-binary-trees-with-factors"
+    }
+  },
+  {
     "name": "86-partition-list",
     "path": "86-partition-list",
     "sha": "3ce09b6ea73c1c011a12f9a5a58c66c9cbeb46ba",
@@ -1773,6 +2477,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/86-partition-list?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3ce09b6ea73c1c011a12f9a5a58c66c9cbeb46ba",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/86-partition-list"
+    }
+  },
+  {
+    "name": "874-backspace-string-compare",
+    "path": "874-backspace-string-compare",
+    "sha": "1d64629d35ce0ca676db75e3d8116bf098b81a1f",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/874-backspace-string-compare?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/874-backspace-string-compare",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1d64629d35ce0ca676db75e3d8116bf098b81a1f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/874-backspace-string-compare?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1d64629d35ce0ca676db75e3d8116bf098b81a1f",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/874-backspace-string-compare"
     }
   },
   {
@@ -1933,6 +2653,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/96-unique-binary-search-trees?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/cc9101fd6a60360b0c88a5d75fca5d0821654cf0",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/96-unique-binary-search-trees"
+    }
+  },
+  {
+    "name": "965-unique-email-addresses",
+    "path": "965-unique-email-addresses",
+    "sha": "a73addc56490692549494ae573555cc6826ef0ac",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/965-unique-email-addresses?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/965-unique-email-addresses",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/a73addc56490692549494ae573555cc6826ef0ac",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/965-unique-email-addresses?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/a73addc56490692549494ae573555cc6826ef0ac",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/965-unique-email-addresses"
     }
   },
   {
