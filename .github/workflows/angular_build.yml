@@ -20,11 +20,14 @@ jobs:
       - name: Install Angular CLI
         run: npm install -g @angular/cli
 
-      - name: Install Dependencies
-        run: npm install
-
       - name: Set Environment Variable in Angular
         run: node setenv.js
+
+      - name: Clean Cache
+        run: npm cache clean --force
+
+      - name: Install Dependencies
+        run: npm install
 
       - name: Build App
         run: ng build --configuration=production --base-href "/AppUI/"
