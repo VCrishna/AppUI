@@ -1,4 +1,4 @@
-import { GithubService } from './../github.service';
+import { GithubService } from '../service/github.service';
 import { Component, OnInit } from '@angular/core';
 import { LeetCodeQuestion } from './LeetCodeQuestion';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
