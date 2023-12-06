@@ -2,5 +2,5 @@
 export interface Pattern {
   name: string;
   content: string;
-  image?: string; // URL or path to the image
+  image?: string;
 }
