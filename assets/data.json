@@ -48,6 +48,38 @@
     }
   },
   {
+    "name": "1102-check-if-a-number-is-majority-element-in-a-sorted-array",
+    "path": "1102-check-if-a-number-is-majority-element-in-a-sorted-array",
+    "sha": "37e427133aaa9072a1eac009fbe66f84cb19e7d0",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1102-check-if-a-number-is-majority-element-in-a-sorted-array?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1102-check-if-a-number-is-majority-element-in-a-sorted-array",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/37e427133aaa9072a1eac009fbe66f84cb19e7d0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1102-check-if-a-number-is-majority-element-in-a-sorted-array?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/37e427133aaa9072a1eac009fbe66f84cb19e7d0",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1102-check-if-a-number-is-majority-element-in-a-sorted-array"
+    }
+  },
+  {
+    "name": "1112-find-words-that-can-be-formed-by-characters",
+    "path": "1112-find-words-that-can-be-formed-by-characters",
+    "sha": "578c610d9b1068674c70d52993f4216ea5985639",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1112-find-words-that-can-be-formed-by-characters?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1112-find-words-that-can-be-formed-by-characters",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/578c610d9b1068674c70d52993f4216ea5985639",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1112-find-words-that-can-be-formed-by-characters?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/578c610d9b1068674c70d52993f4216ea5985639",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1112-find-words-that-can-be-formed-by-characters"
+    }
+  },
+  {
     "name": "1129-longest-string-chain",
     "path": "1129-longest-string-chain",
     "sha": "51ea019aa9a2e9ce46df137abeac3fa447555250",
@@ -125,6 +157,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/119-pascals-triangle-ii?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/f6c075e3bcfd95aa16f2da72c17d8935a071fec9",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/119-pascals-triangle-ii"
+    }
+  },
+  {
+    "name": "120-triangle",
+    "path": "120-triangle",
+    "sha": "42a19474ce97b119f250137f8a464cb1a13f79d8",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/120-triangle?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/120-triangle",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/42a19474ce97b119f250137f8a464cb1a13f79d8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/120-triangle?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/42a19474ce97b119f250137f8a464cb1a13f79d8",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/120-triangle"
     }
   },
   {
@@ -253,6 +301,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/139-word-break?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/9d7ac335a8cb3c42bc564143491f2fb98bef6d16",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/139-word-break"
+    }
+  },
+  {
+    "name": "1395-minimum-time-visiting-all-points",
+    "path": "1395-minimum-time-visiting-all-points",
+    "sha": "d66b9d6a242f6ef210ddab83ddddd6921c0fe6ed",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1395-minimum-time-visiting-all-points?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1395-minimum-time-visiting-all-points",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/d66b9d6a242f6ef210ddab83ddddd6921c0fe6ed",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1395-minimum-time-visiting-all-points?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/d66b9d6a242f6ef210ddab83ddddd6921c0fe6ed",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1395-minimum-time-visiting-all-points"
     }
   },
   {
@@ -416,6 +480,22 @@
     }
   },
   {
+    "name": "1539-diagonal-traverse-ii",
+    "path": "1539-diagonal-traverse-ii",
+    "sha": "4316d909defc50288459ac18dcef1c55e76f8bdb",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1539-diagonal-traverse-ii?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1539-diagonal-traverse-ii",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/4316d909defc50288459ac18dcef1c55e76f8bdb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1539-diagonal-traverse-ii?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/4316d909defc50288459ac18dcef1c55e76f8bdb",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1539-diagonal-traverse-ii"
+    }
+  },
+  {
     "name": "1552-build-an-array-with-stack-operations",
     "path": "1552-build-an-array-with-stack-operations",
     "sha": "c1e930b856034070bf2cd9d5bd477414249d815f",
@@ -528,6 +608,22 @@
     }
   },
   {
+    "name": "1674-minimum-operations-to-make-array-equal",
+    "path": "1674-minimum-operations-to-make-array-equal",
+    "sha": "547baea24bff1fbf18fca405a41ed7157723dd30",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1674-minimum-operations-to-make-array-equal?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1674-minimum-operations-to-make-array-equal",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/547baea24bff1fbf18fca405a41ed7157723dd30",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1674-minimum-operations-to-make-array-equal?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/547baea24bff1fbf18fca405a41ed7157723dd30",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1674-minimum-operations-to-make-array-equal"
+    }
+  },
+  {
     "name": "168-excel-sheet-column-title",
     "path": "168-excel-sheet-column-title",
     "sha": "34f99ab758b7b660025e63603830d95c385a3a1b",
@@ -541,6 +637,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/168-excel-sheet-column-title?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/34f99ab758b7b660025e63603830d95c385a3a1b",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/168-excel-sheet-column-title"
+    }
+  },
+  {
+    "name": "1683-maximum-number-of-coins-you-can-get",
+    "path": "1683-maximum-number-of-coins-you-can-get",
+    "sha": "27dd16014ec05e5506816112e9d283aa033a15d4",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1683-maximum-number-of-coins-you-can-get?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1683-maximum-number-of-coins-you-can-get",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/27dd16014ec05e5506816112e9d283aa033a15d4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1683-maximum-number-of-coins-you-can-get?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/27dd16014ec05e5506816112e9d283aa033a15d4",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1683-maximum-number-of-coins-you-can-get"
     }
   },
   {
@@ -592,6 +704,38 @@
     }
   },
   {
+    "name": "1732-minimum-one-bit-operations-to-make-integers-zero",
+    "path": "1732-minimum-one-bit-operations-to-make-integers-zero",
+    "sha": "086a1c4c208b5d221db532e3ac0667e44eb16009",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1732-minimum-one-bit-operations-to-make-integers-zero?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1732-minimum-one-bit-operations-to-make-integers-zero",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/086a1c4c208b5d221db532e3ac0667e44eb16009",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1732-minimum-one-bit-operations-to-make-integers-zero?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/086a1c4c208b5d221db532e3ac0667e44eb16009",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1732-minimum-one-bit-operations-to-make-integers-zero"
+    }
+  },
+  {
+    "name": "1752-arithmetic-subarrays",
+    "path": "1752-arithmetic-subarrays",
+    "sha": "f25ab26e23ab474a99ec0bce701c6f429e544c5b",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1752-arithmetic-subarrays?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1752-arithmetic-subarrays",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/f25ab26e23ab474a99ec0bce701c6f429e544c5b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1752-arithmetic-subarrays?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/f25ab26e23ab474a99ec0bce701c6f429e544c5b",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1752-arithmetic-subarrays"
+    }
+  },
+  {
     "name": "1753-path-with-minimum-effort",
     "path": "1753-path-with-minimum-effort",
     "sha": "dd1bdce48bf8d5975e3b78df80ab1308a3555ac9",
@@ -640,6 +784,70 @@
     }
   },
   {
+    "name": "1781-check-if-two-string-arrays-are-equivalent",
+    "path": "1781-check-if-two-string-arrays-are-equivalent",
+    "sha": "1c18d43a18a1724b1a90cb70f22d66e234cbcef0",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1781-check-if-two-string-arrays-are-equivalent?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1781-check-if-two-string-arrays-are-equivalent",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1c18d43a18a1724b1a90cb70f22d66e234cbcef0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1781-check-if-two-string-arrays-are-equivalent?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/1c18d43a18a1724b1a90cb70f22d66e234cbcef0",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1781-check-if-two-string-arrays-are-equivalent"
+    }
+  },
+  {
+    "name": "1787-sum-of-absolute-differences-in-a-sorted-array",
+    "path": "1787-sum-of-absolute-differences-in-a-sorted-array",
+    "sha": "acd01c55b6dee6b21dd8756e57102678ff68e369",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1787-sum-of-absolute-differences-in-a-sorted-array?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1787-sum-of-absolute-differences-in-a-sorted-array",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/acd01c55b6dee6b21dd8756e57102678ff68e369",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1787-sum-of-absolute-differences-in-a-sorted-array?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/acd01c55b6dee6b21dd8756e57102678ff68e369",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1787-sum-of-absolute-differences-in-a-sorted-array"
+    }
+  },
+  {
+    "name": "1806-count-of-matches-in-tournament",
+    "path": "1806-count-of-matches-in-tournament",
+    "sha": "922654bae1a979ec34acd1dd69735b3c4e249de9",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1806-count-of-matches-in-tournament?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1806-count-of-matches-in-tournament",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/922654bae1a979ec34acd1dd69735b3c4e249de9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1806-count-of-matches-in-tournament?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/922654bae1a979ec34acd1dd69735b3c4e249de9",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1806-count-of-matches-in-tournament"
+    }
+  },
+  {
+    "name": "1817-calculate-money-in-leetcode-bank",
+    "path": "1817-calculate-money-in-leetcode-bank",
+    "sha": "3f3e43288737f780e589a250e9b0d137c9b7ce90",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1817-calculate-money-in-leetcode-bank?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1817-calculate-money-in-leetcode-bank",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3f3e43288737f780e589a250e9b0d137c9b7ce90",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1817-calculate-money-in-leetcode-bank?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3f3e43288737f780e589a250e9b0d137c9b7ce90",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1817-calculate-money-in-leetcode-bank"
+    }
+  },
+  {
     "name": "1839-decode-xored-array",
     "path": "1839-decode-xored-array",
     "sha": "2023dee43968f6bcd8d88fb8f5537c191d1c0139",
@@ -653,6 +861,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1839-decode-xored-array?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/2023dee43968f6bcd8d88fb8f5537c191d1c0139",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/1839-decode-xored-array"
+    }
+  },
+  {
+    "name": "1845-largest-submatrix-with-rearrangements",
+    "path": "1845-largest-submatrix-with-rearrangements",
+    "sha": "4885e04ab854d7057a98f715185ae65d71449fab",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1845-largest-submatrix-with-rearrangements?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1845-largest-submatrix-with-rearrangements",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/4885e04ab854d7057a98f715185ae65d71449fab",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1845-largest-submatrix-with-rearrangements?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/4885e04ab854d7057a98f715185ae65d71449fab",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1845-largest-submatrix-with-rearrangements"
     }
   },
   {
@@ -690,16 +914,16 @@
   {
     "name": "191-number-of-1-bits",
     "path": "191-number-of-1-bits",
-    "sha": "10e467c86d70a96279c46a769311525d15c5a812",
+    "sha": "87169e3b449f865bddcfe6cf6c777a0355addb93",
     "size": 0,
     "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/191-number-of-1-bits?ref=main",
     "html_url": "https://github.com/VCrishna/LeetCode/tree/main/191-number-of-1-bits",
-    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/10e467c86d70a96279c46a769311525d15c5a812",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/87169e3b449f865bddcfe6cf6c777a0355addb93",
     "download_url": null,
     "type": "dir",
     "_links": {
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/191-number-of-1-bits?ref=main",
-      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/10e467c86d70a96279c46a769311525d15c5a812",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/87169e3b449f865bddcfe6cf6c777a0355addb93",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/191-number-of-1-bits"
     }
   },
@@ -717,6 +941,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1918-maximum-score-of-a-good-subarray?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/16d1b8c47d71c48b2cad2dfb44d80fd7e2d95248",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/1918-maximum-score-of-a-good-subarray"
+    }
+  },
+  {
+    "name": "1925-count-nice-pairs-in-an-array",
+    "path": "1925-count-nice-pairs-in-an-array",
+    "sha": "fbbc1497c24ee2120f9ccd850457accdc8fd4d4f",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1925-count-nice-pairs-in-an-array?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1925-count-nice-pairs-in-an-array",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/fbbc1497c24ee2120f9ccd850457accdc8fd4d4f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1925-count-nice-pairs-in-an-array?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/fbbc1497c24ee2120f9ccd850457accdc8fd4d4f",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1925-count-nice-pairs-in-an-array"
     }
   },
   {
@@ -752,6 +992,38 @@
     }
   },
   {
+    "name": "1966-frequency-of-the-most-frequent-element",
+    "path": "1966-frequency-of-the-most-frequent-element",
+    "sha": "2ac3cde42f2b133b414416ac4b8daff6b4c5f28a",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1966-frequency-of-the-most-frequent-element?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1966-frequency-of-the-most-frequent-element",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/2ac3cde42f2b133b414416ac4b8daff6b4c5f28a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1966-frequency-of-the-most-frequent-element?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/2ac3cde42f2b133b414416ac4b8daff6b4c5f28a",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1966-frequency-of-the-most-frequent-element"
+    }
+  },
+  {
+    "name": "1988-minimize-maximum-pair-sum-in-array",
+    "path": "1988-minimize-maximum-pair-sum-in-array",
+    "sha": "3f67a7a44df5b2398fc5ca42853863426e39d95f",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/1988-minimize-maximum-pair-sum-in-array?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/1988-minimize-maximum-pair-sum-in-array",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3f67a7a44df5b2398fc5ca42853863426e39d95f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/1988-minimize-maximum-pair-sum-in-array?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3f67a7a44df5b2398fc5ca42853863426e39d95f",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/1988-minimize-maximum-pair-sum-in-array"
+    }
+  },
+  {
     "name": "2000-minimum-speed-to-arrive-on-time",
     "path": "2000-minimum-speed-to-arrive-on-time",
     "sha": "dc3dfdf92e34f711367bc7951a73d406641bbaaf",
@@ -765,6 +1037,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2000-minimum-speed-to-arrive-on-time?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/dc3dfdf92e34f711367bc7951a73d406641bbaaf",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/2000-minimum-speed-to-arrive-on-time"
+    }
+  },
+  {
+    "name": "2016-reduction-operations-to-make-the-array-elements-equal",
+    "path": "2016-reduction-operations-to-make-the-array-elements-equal",
+    "sha": "85efd407987da9b8420ea0de7b80e93749b9ef89",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2016-reduction-operations-to-make-the-array-elements-equal?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2016-reduction-operations-to-make-the-array-elements-equal",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/85efd407987da9b8420ea0de7b80e93749b9ef89",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2016-reduction-operations-to-make-the-array-elements-equal?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/85efd407987da9b8420ea0de7b80e93749b9ef89",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2016-reduction-operations-to-make-the-array-elements-equal"
     }
   },
   {
@@ -845,6 +1133,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2107-find-unique-binary-string?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/66a4c784a0202fc4b50d76db132a1a1c8f51f6f1",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/2107-find-unique-binary-string"
+    }
+  },
+  {
+    "name": "2113-find-the-kth-largest-integer-in-the-array",
+    "path": "2113-find-the-kth-largest-integer-in-the-array",
+    "sha": "3fc9f03774674245eae757bb63c0a26aba4cd33a",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2113-find-the-kth-largest-integer-in-the-array?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2113-find-the-kth-largest-integer-in-the-array",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3fc9f03774674245eae757bb63c0a26aba4cd33a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2113-find-the-kth-largest-integer-in-the-array?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/3fc9f03774674245eae757bb63c0a26aba4cd33a",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2113-find-the-kth-largest-integer-in-the-array"
     }
   },
   {
@@ -960,6 +1264,22 @@
     }
   },
   {
+    "name": "2251-number-of-ways-to-divide-a-long-corridor",
+    "path": "2251-number-of-ways-to-divide-a-long-corridor",
+    "sha": "53d3fb31121f971ffaf5e2cc5895b1bbcc402647",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2251-number-of-ways-to-divide-a-long-corridor?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2251-number-of-ways-to-divide-a-long-corridor",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/53d3fb31121f971ffaf5e2cc5895b1bbcc402647",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2251-number-of-ways-to-divide-a-long-corridor?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/53d3fb31121f971ffaf5e2cc5895b1bbcc402647",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2251-number-of-ways-to-divide-a-long-corridor"
+    }
+  },
+  {
     "name": "2263-maximum-running-time-of-n-computers",
     "path": "2263-maximum-running-time-of-n-computers",
     "sha": "182ce2b878e09362dc81dac6cd90efd1289abc83",
@@ -1005,6 +1325,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/234-palindrome-linked-list?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/d4741e589992b403b6fcf6942b1d526a238a9e81",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/234-palindrome-linked-list"
+    }
+  },
+  {
+    "name": "2346-largest-3-same-digit-number-in-string",
+    "path": "2346-largest-3-same-digit-number-in-string",
+    "sha": "f9bd1f4ab24ab847316bafb316388ab6bc8cda0e",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2346-largest-3-same-digit-number-in-string?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2346-largest-3-same-digit-number-in-string",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/f9bd1f4ab24ab847316bafb316388ab6bc8cda0e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2346-largest-3-same-digit-number-in-string?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/f9bd1f4ab24ab847316bafb316388ab6bc8cda0e",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2346-largest-3-same-digit-number-in-string"
     }
   },
   {
@@ -1104,6 +1440,22 @@
     }
   },
   {
+    "name": "2471-minimum-amount-of-time-to-collect-garbage",
+    "path": "2471-minimum-amount-of-time-to-collect-garbage",
+    "sha": "6909ef76b7e00d6c483a462aa991ee2b7aa999d3",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2471-minimum-amount-of-time-to-collect-garbage?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2471-minimum-amount-of-time-to-collect-garbage",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/6909ef76b7e00d6c483a462aa991ee2b7aa999d3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2471-minimum-amount-of-time-to-collect-garbage?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/6909ef76b7e00d6c483a462aa991ee2b7aa999d3",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2471-minimum-amount-of-time-to-collect-garbage"
+    }
+  },
+  {
     "name": "2519-find-the-original-array-of-prefix-xor",
     "path": "2519-find-the-original-array-of-prefix-xor",
     "sha": "ddc44464ed08da3b617e764c4c70a08f711bc7fb",
@@ -1165,6 +1517,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2678-design-graph-with-shortest-path-calculator?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/fef2f9299c9ddd9db0e6a0b8be8784dd15efa51a",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/2678-design-graph-with-shortest-path-calculator"
+    }
+  },
+  {
+    "name": "2679-count-distinct-numbers-on-board",
+    "path": "2679-count-distinct-numbers-on-board",
+    "sha": "fe720ed8bd37eabc72fabfc543928b29045dad24",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/2679-count-distinct-numbers-on-board?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/2679-count-distinct-numbers-on-board",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/fe720ed8bd37eabc72fabfc543928b29045dad24",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/2679-count-distinct-numbers-on-board?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/fe720ed8bd37eabc72fabfc543928b29045dad24",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/2679-count-distinct-numbers-on-board"
     }
   },
   {
@@ -1789,6 +2157,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/46-permutations?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/285970c69b22683c27d09d615968c8c673040e03",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/46-permutations"
+    }
+  },
+  {
+    "name": "462-minimum-moves-to-equal-array-elements-ii",
+    "path": "462-minimum-moves-to-equal-array-elements-ii",
+    "sha": "522e382a18768fccad78ec6052cb2103c42c31af",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/462-minimum-moves-to-equal-array-elements-ii?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/462-minimum-moves-to-equal-array-elements-ii",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/522e382a18768fccad78ec6052cb2103c42c31af",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/462-minimum-moves-to-equal-array-elements-ii?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/522e382a18768fccad78ec6052cb2103c42c31af",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/462-minimum-moves-to-equal-array-elements-ii"
     }
   },
   {
@@ -2685,6 +3069,22 @@
       "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/97-interleaving-string?ref=main",
       "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/0f39203709d19d07f77c4ee6c45aad71a641ce01",
       "html": "https://github.com/VCrishna/LeetCode/tree/main/97-interleaving-string"
+    }
+  },
+  {
+    "name": "972-knight-dialer",
+    "path": "972-knight-dialer",
+    "sha": "669a9a70df8ad7e6c03982a955c92847f35b69da",
+    "size": 0,
+    "url": "https://api.github.com/repos/VCrishna/LeetCode/contents/972-knight-dialer?ref=main",
+    "html_url": "https://github.com/VCrishna/LeetCode/tree/main/972-knight-dialer",
+    "git_url": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/669a9a70df8ad7e6c03982a955c92847f35b69da",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/VCrishna/LeetCode/contents/972-knight-dialer?ref=main",
+      "git": "https://api.github.com/repos/VCrishna/LeetCode/git/trees/669a9a70df8ad7e6c03982a955c92847f35b69da",
+      "html": "https://github.com/VCrishna/LeetCode/tree/main/972-knight-dialer"
     }
   },
   {
