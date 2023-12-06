@@ -1,36 +1,36 @@
-name: Fetch GitHub Data and Update Repo
+# name: Fetch GitHub Data and Update Repo
 
-on:
-  push:
-    branches:
-      - main
+# on:
+#   push:
+#     branches:
+#       - main
 
-jobs:
-  fetch_and_commit:
-    runs-on: ubuntu-latest
+# jobs:
+#   fetch_and_commit:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository with PAT
-        uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.PERSONAL_TOKEN }}
+#     steps:
+#       - name: Checkout repository with PAT
+#         uses: actions/checkout@v2
+#         with:
+#           token: ${{ secrets.PERSONAL_TOKEN }}
 
-      - name: Fetch data from GitHub API
-        env:
-          NEXTECH_TOKEN: ${{ secrets.NEXTECH_TOKEN }}
-        run: |
-          curl -H "Authorization: token $NEXTECH_TOKEN" https://api.github.com/repos/VCrishna/LeetCode/contents/ > ./src/assets/data.json
+#       - name: Fetch data from GitHub API
+#         env:
+#           NEXTECH_TOKEN: ${{ secrets.NEXTECH_TOKEN }}
+#         run: |
+#           curl -H "Authorization: token $NEXTECH_TOKEN" https://api.github.com/repos/VCrishna/LeetCode/contents/ > ./src/assets/data.json
 
-      - name: Log the fetched data
-        run: cat src/assets/data.json
+#       - name: Log the fetched data
+#         run: cat src/assets/data.json
 
-      - name: Commit and push changes
-        env:
-          GH_PAT: ${{ secrets.PERSONAL_TOKEN }}
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add src/assets/data.json
-          git commit -m "Auto commit changes" || echo "No changes to commit"
-          git pull --rebase origin main
-          git push https://${GH_PAT}@github.com/VCrishna/AppUI.git main
+#       - name: Commit and push changes
+#         env:
+#           GH_PAT: ${{ secrets.PERSONAL_TOKEN }}
+#         run: |
+#           git config --local user.email "action@github.com"
+#           git config --local user.name "GitHub Action"
+#           git add src/assets/data.json
+#           git commit -m "Auto commit changes" || echo "No changes to commit"
+#           git pull --rebase origin main
+#           git push https://${GH_PAT}@github.com/VCrishna/AppUI.git main
