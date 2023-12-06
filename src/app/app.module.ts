@@ -18,6 +18,7 @@ import { HighlightModule } from 'ngx-highlightjs';
 import { LcPatternsComponent } from './lc-patterns/lc-patterns.component';
 import { CourseCardComponent } from './courses/course-card/course-card.component';
 import { NosqlComponent } from './nosql/nosql.component';
+import { DesignPatternsComponent } from './design-patterns/design-patterns.component';
 
 @NgModule({
   declarations: [
@@ -34,6 +35,7 @@ import { NosqlComponent } from './nosql/nosql.component';
     LcPatternsComponent,
     CourseCardComponent,
     NosqlComponent,
+    DesignPatternsComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule, HighlightModule],
   providers: [],

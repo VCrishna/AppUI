@@ -13,6 +13,7 @@ import { SystemdesignComponent } from './systemdesign/systemdesign.component';
 import { SQLComponent } from './sql/sql.component';
 import { AboutMeComponent } from './about-me/about-me.component';
 import { NosqlComponent } from './nosql/nosql.component';
+import { DesignPatternsComponent } from './design-patterns/design-patterns.component';
 
 const routes: Routes = [
   { path: '', component: AppHomeComponent },
@@ -26,6 +27,7 @@ const routes: Routes = [
   { path: 'Systemdesign', component: SystemdesignComponent },
   { path: 'AboutMe', component: AboutMeComponent },
   { path: 'NoSQL', component: NosqlComponent },
+  { path: 'DesignPatterns', component: DesignPatternsComponent },
 ];
 
 @NgModule({

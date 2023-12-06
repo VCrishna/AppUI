@@ -1,38 +1,226 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
-  integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-  crossorigin="anonymous"
-/>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a
-    class="navbar-brand bg-transparent text-dark border-0 font-weight-bold text-center"
-    routerLink="/"
-    routerLinkActive="active"
-    href="#"
-  >
-    <i class="bi bi-house-door" style="color: white"></i>
-  </a>
-  <ul class="navbar-nav">
-    <li class="nav-item me-auto mb-2 mb-lg-0">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="systemdesign.component.css" />
+    <title>System Design Basics</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a
-        class="nav-link font-weight-bold"
-        routerLink="Reminders"
+        class="navbar-brand bg-transparent text-dark border-0 font-weight-bold text-center"
+        routerLink="/"
         routerLinkActive="active"
         href="#"
-        >System Design</a
       >
-    </li>
-  </ul>
-  <button
-    type="button"
-    class="close btn-close-focus-shadow"
-    style="margin-left: auto"
-    routerLink="/"
-    routerLinkActive="active"
-    aria-label="Close"
-  >
-    <span aria-hidden="true">&times;</span>
-  </button>
-</nav>
-<body></body>
+        <i class="bi bi-house-door" style="color: white"></i>
+      </a>
+      <ul class="navbar-nav">
+        <li class="nav-item me-auto mb-2 mb-lg-0">
+          <a
+            class="nav-link font-weight-bold"
+            routerLink="SystemDesign"
+            routerLinkActive="active"
+            href="#"
+            >System Design</a
+          >
+        </li>
+      </ul>
+      <button
+        type="button"
+        class="close btn-close-focus-shadow"
+        style="margin-left: auto"
+        routerLink="/"
+        routerLinkActive="active"
+        aria-label="Close"
+      >
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </nav>
+
+    <div class="container">
+      <!-- Introduction to System Design -->
+      <p>
+        <strong>System design</strong> is a crucial phase in software
+        development that involves planning and defining the architecture,
+        components, modules, interfaces, and data for a system. It aims to meet
+        specific requirements and ensure the scalability, reliability, and
+        performance of the system.
+      </p>
+
+      <!-- Key Concepts in System Design -->
+      <h5>Key Concepts in System Design:</h5>
+      <ul>
+        <!-- Scalability -->
+        <li>
+          <strong>Scalability:</strong> Designing the system to handle increased
+          load and user growth efficiently.
+          <br />
+          <strong>Example:</strong> Using load balancing and distributed
+          databases to ensure a web application can handle a growing number of
+          users.
+          <br />
+          <strong>Reference:</strong>
+          <a href="https://en.wikipedia.org/wiki/Scalability">Scalability</a>
+        </li>
+        <!-- Reliability -->
+        <li>
+          <strong>Reliability:</strong> Ensuring the system operates
+          consistently and reliably under varying conditions.
+          <br />
+          <strong>Example:</strong> Implementing fault-tolerant mechanisms to
+          handle server failures in a distributed system.
+        </li>
+        <!-- Availability -->
+        <li>
+          <strong>Availability:</strong> Designing for high availability to
+          minimize downtime and ensure continuous operation.
+          <br />
+          <strong>Example:</strong> Using redundant servers and backup systems
+          to maintain service availability.
+        </li>
+        <!-- Performance -->
+        <li>
+          <strong>Performance:</strong> Optimizing the system's performance to
+          meet response time and throughput requirements.
+          <br />
+          <strong>Example:</strong> Caching frequently accessed data to reduce
+          latency in a content delivery network.
+        </li>
+        <!-- Add more key concepts as needed -->
+      </ul>
+
+      <!-- System Design Principles -->
+      <h5>System Design Principles:</h5>
+      <ul>
+        <!-- Modularity -->
+        <li>
+          <strong>Modularity:</strong> Breaking down the system into independent
+          modules for easier development and maintenance.
+          <br />
+          <strong>Example:</strong> Dividing an e-commerce system into modules
+          for inventory management, user authentication, and order processing.
+        </li>
+        <!-- Abstraction -->
+        <li>
+          <strong>Abstraction:</strong> Hiding complex implementation details
+          and exposing only relevant functionalities.
+          <br />
+          <strong>Example:</strong> Using APIs to interact with a payment
+          gateway without needing to understand the internal payment processing
+          logic.
+          <br />
+          <strong>Reference:</strong>
+          <a href="https://en.wikipedia.org/wiki/Software_design_pattern"
+            >Software Design Patterns</a
+          >
+        </li>
+        <!-- Reuse -->
+        <li>
+          <strong>Reuse:</strong> Reusing existing components and modules to
+          save time and resources.
+          <br />
+          <strong>Example:</strong> Using a library for image processing instead
+          of developing custom image processing functions.
+        </li>
+        <!-- Scalability Patterns -->
+        <li>
+          <strong>Scalability Patterns:</strong> Implementing patterns like
+          sharding, replication, and load balancing to achieve scalability.
+          <br />
+          <strong>Example:</strong> Sharding a database to distribute data
+          across multiple servers for improved performance.
+          <br />
+          <strong>Reference:</strong>
+          <a href="https://en.wikipedia.org/wiki/Software_design_pattern"
+            >Software Design Patterns</a
+          >
+        </li>
+        <!-- Add more design principles as needed -->
+      </ul>
+
+      <!-- Common System Design Approaches -->
+      <h5>Common System Design Approaches:</h5>
+      <ul>
+        <!-- Monolithic Architecture -->
+        <li>
+          <strong>Monolithic Architecture:</strong> A single, unified codebase
+          for the entire application.
+          <br />
+          <strong>Example:</strong> A traditional content management system
+          where all features are part of a single application.
+          <br />
+          <strong>Reference:</strong>
+          <a href="https://microservices.io/patterns/monolithic.html"
+            >Microservices vs. Monolithic Architecture</a
+          >
+        </li>
+        <!-- Microservices Architecture -->
+        <li>
+          <strong>Microservices Architecture:</strong> Breaking down the
+          application into small, independent services.
+          <br />
+          <strong>Example:</strong> An e-commerce platform where separate
+          microservices handle user authentication, inventory management, and
+          order processing.
+        </li>
+        <!-- Serverless Architecture -->
+        <li>
+          <strong>Serverless Architecture:</strong> Running applications without
+          managing servers.
+          <br />
+          <strong>Example:</strong> Using serverless functions to process data
+          uploaded to a cloud storage service without maintaining a dedicated
+          server.
+        </li>
+        <!-- Add more design approaches as needed -->
+      </ul>
+
+      <!-- Collaboration and Conclusion -->
+      <p>
+        System design is a collaborative process involving architects,
+        developers, and stakeholders. It requires considering trade-offs and
+        making decisions that align with the project's goals.
+        <br />
+        <strong>Example:</strong> Regular meetings between developers and system
+        architects to discuss design decisions and trade-offs.
+        <br />
+        <strong>Reference:</strong>
+        <a
+          href="https://uxdesign.cc/the-importance-of-collaboration-in-design-687c4c2408e2"
+          >The Importance of Collaboration in Design</a
+        >
+      </p>
+
+      <h5>Conclusion:</h5>
+      <p>
+        A well-designed system is essential for the success of any software
+        project. System design basics provide a foundation for creating robust,
+        scalable, and efficient systems that can adapt to changing requirements.
+      </p>
+    </div>
+
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

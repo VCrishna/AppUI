@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="design-patterns.component.css" />
+    <title>Design Patterns</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a
+        class="navbar-brand bg-transparent text-dark border-0 font-weight-bold text-center"
+        routerLink="/"
+        routerLinkActive="active"
+        href="#"
+      >
+        <i class="bi bi-house-door" style="color: white"></i>
+      </a>
+      <ul class="navbar-nav">
+        <li class="nav-item me-auto mb-2 mb-lg-0">
+          <a
+            class="nav-link font-weight-bold"
+            routerLink="SystemDesign"
+            routerLinkActive="active"
+            href="#"
+            >Design Patterns</a
+          >
+        </li>
+      </ul>
+      <button
+        type="button"
+        class="close btn-close-focus-shadow"
+        style="margin-left: auto"
+        routerLink="/"
+        routerLinkActive="active"
+        aria-label="Close"
+      >
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </nav>
+
+    <div class="container">
+      <!-- Introduction to Design Patterns -->
+      <p>
+        <strong>Design patterns</strong> are reusable solutions to common
+        problems encountered in software design. They represent best practices
+        evolved over time by experienced software developers.
+      </p>
+
+      <!-- Structural Design Patterns -->
+      <h4>Structural Design Patterns:</h4>
+      <!-- Adapter Pattern -->
+      <h5>Adapter Pattern:</h5>
+      <p>
+        Allows the interface of an existing class to be used as another
+        interface.
+      </p>
+      <p><strong>Example:</strong> Adapting an old API to a new one.</p>
+      <p>
+        <strong>Reference:</strong>
+        <a href="https://refactoring.guru/design-patterns/adapter"
+          >Adapter Pattern</a
+        >
+      </p>
+
+      <!-- Decorator Pattern -->
+      <h5>Decorator Pattern:</h5>
+      <p>Attaches additional responsibilities to an object dynamically.</p>
+      <p>
+        <strong>Example:</strong> Adding new features to a graphical component.
+      </p>
+      <p>
+        <strong>Reference:</strong>
+        <a href="https://refactoring.guru/design-patterns/decorator"
+          >Decorator Pattern</a
+        >
+      </p>
+
+      <!-- Behavioral Design Patterns -->
+      <h4>Behavioral Design Patterns:</h4>
+      <!-- Observer Pattern -->
+      <h5>Observer Pattern:</h5>
+      <p>
+        Defines a one-to-many dependency between objects so that when one object
+        changes state, all its dependents are notified and updated
+        automatically.
+      </p>
+      <p>
+        <strong>Example:</strong> Implementing event listeners in a graphical
+        user interface (GUI).
+      </p>
+      <p>
+        <strong>Reference:</strong>
+        <a href="https://refactoring.guru/design-patterns/observer"
+          >Observer Pattern</a
+        >
+      </p>
+
+      <!-- Strategy Pattern -->
+      <h5>Strategy Pattern:</h5>
+      <p>
+        Defines a family of algorithms, encapsulates each algorithm, and makes
+        them interchangeable.
+      </p>
+      <p>
+        <strong>Example:</strong> Implementing various sorting algorithms (e.g.,
+        bubble sort, quicksort) as strategies.
+      </p>
+      <p>
+        <strong>Reference:</strong>
+        <a href="https://refactoring.guru/design-patterns/strategy"
+          >Strategy Pattern</a
+        >
+      </p>
+
+      <!-- Other Design Patterns -->
+      <h4>Other Design Patterns:</h4>
+      <!-- Singleton Pattern -->
+      <h5>Singleton Pattern:</h5>
+      <p>
+        Ensures a class has only one instance and provides a global point of
+        access to it.
+      </p>
+      <p>
+        <strong>Example:</strong> Implementing a configuration manager as a
+        singleton to manage application settings.
+      </p>
+      <p>
+        <strong>Reference:</strong>
+        <a href="https://refactoring.guru/design-patterns/singleton"
+          >Singleton Pattern</a
+        >
+      </p>
+
+      <!-- Factory Method Pattern -->
+      <h5>Factory Method Pattern:</h5>
+      <p>
+        Defines an interface for creating an object but leaves the choice of its
+        type to the subclasses.
+      </p>
+      <p>
+        <strong>Example:</strong> Creating different document types (PDF, Word)
+        using a document factory.
+      </p>
+      <p>
+        <strong>Reference:</strong>
+        <a href="https://refactoring.guru/design-patterns/factory-method"
+          >Factory Method Pattern</a
+        >
+      </p>
+
+      <!-- Conclusion -->
+      <p>
+        Understanding and applying design patterns requires collaboration among
+        developers to ensure consistent and effective use throughout a software
+        project.
+      </p>
+      <p>
+        <strong>Example:</strong> Conducting code reviews to ensure adherence to
+        design patterns.
+      </p>
+      <p>
+        <strong>Reference:</strong>
+        <a href="https://en.wikipedia.org/wiki/Code_review">Code Review</a>
+      </p>
+
+      <h5>Conclusion:</h5>
+      <p>
+        Design patterns provide proven solutions to recurring design problems in
+        software development. By leveraging design patterns, developers can
+        enhance code quality, maintainability, and scalability.
+      </p>
+    </div>
+
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

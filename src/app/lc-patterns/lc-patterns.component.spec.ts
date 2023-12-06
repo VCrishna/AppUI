@@ -6,6 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./lc-patterns.component.css'],
 })
 export class LcPatternsComponent {
+togglePattern(_t6: any) {
+throw new Error('Method not implemented.');
+}
   items: any[] = [];
   isExpanded = new Array(this.items.length).fill(false);
 
