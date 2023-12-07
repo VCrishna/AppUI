@@ -19,6 +19,7 @@ import { LcPatternsComponent } from './lc-patterns/lc-patterns.component';
 import { CourseCardComponent } from './courses/course-card/course-card.component';
 import { NosqlComponent } from './nosql/nosql.component';
 import { DesignPatternsComponent } from './design-patterns/design-patterns.component';
+import { FilterPipe } from './pipes/filter.pipe';
 
 @NgModule({
   declarations: [
@@ -36,6 +37,7 @@ import { DesignPatternsComponent } from './design-patterns/design-patterns.compo
     CourseCardComponent,
     NosqlComponent,
     DesignPatternsComponent,
+    FilterPipe,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule, HighlightModule],
   providers: [],
